@@ -369,24 +369,6 @@
     "hall": "Hall 11-1"
   },
   {
-    "id": "mgstp28wvgqs6eiy2wo",
-    "timestamp": 1760669398592,
-    "dateString": "17/10/2025",
-    "hh": "09",
-    "mm": "49",
-    "type": "normal",
-    "hall": "Hall 16"
-  },
-  {
-    "id": "mgstsfcvpvubt858k7",
-    "timestamp": 1760669495551,
-    "dateString": "17/10/2025",
-    "hh": "09",
-    "mm": "51",
-    "type": "normal",
-    "hall": "Hall 6"
-  },
-  {
     "id": "mgstubhoeihk8l3b7mp",
     "timestamp": 1760756043852,
     "dateString": "18/10/2025",
@@ -520,15 +502,6 @@
     "mm": "05",
     "type": "normal",
     "hall": "Hall 25"
-  },
-  {
-    "id": "mgt5iouyflef9y2hg9h",
-    "timestamp": 1760689256696,
-    "dateString": "17/10/2025",
-    "hh": "15",
-    "mm": "20",
-    "type": "normal",
-    "hall": "Hall 6"
   },
   {
     "id": "mgt5jrw1ut4hdj28n6r",
@@ -1089,15 +1062,6 @@
     "hall": "Hall 12"
   },
   {
-    "id": "mgu56q8i43yhfg5h9j3",
-    "timestamp": 1760669964786,
-    "dateString": "17/10/2025",
-    "hh": "09",
-    "mm": "59",
-    "type": "normal",
-    "hall": "Hall 12"
-  },
-  {
     "id": "mgu56ryc741h8ltyv8",
     "timestamp": 1760677167012,
     "dateString": "17/10/2025",
@@ -1312,5 +1276,41 @@
     "mm": "13",
     "type": "normal",
     "hall": "Hall 22"
+  },
+  {
+    "id": "mgu9b9kwb77ngn507yd",
+    "timestamp": 1760712894943,
+    "dateString": "17/10/2025",
+    "hh": "21",
+    "mm": "54",
+    "type": "normal",
+    "hall": "Hall 16"
+  },
+  {
+    "id": "mgu9buursiitmzireuj",
+    "timestamp": 1760685682514,
+    "dateString": "17/10/2025",
+    "hh": "14",
+    "mm": "21",
+    "type": "normal",
+    "hall": "Hall 6"
+  },
+  {
+    "id": "mgu9cazgdqwizr62kjq",
+    "timestamp": 1760842543420,
+    "dateString": "19/10/2025",
+    "hh": "09",
+    "mm": "55",
+    "type": "normal",
+    "hall": "Hall 6"
+  },
+  {
+    "id": "mgu9h3sq0cr60kzvxpsq",
+    "timestamp": 1760673567386,
+    "dateString": "17/10/2025",
+    "hh": "10",
+    "mm": "59",
+    "type": "normal",
+    "hall": "Hall 12"
   }
 ]
