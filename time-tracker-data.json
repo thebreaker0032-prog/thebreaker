@@ -153,15 +153,6 @@
     "hall": "Hall 17"
   },
   {
-    "id": "mgsqf34b9wqyr8hht4",
-    "timestamp": 1760750294315,
-    "dateString": "18/10/2025",
-    "hh": "08",
-    "mm": "18",
-    "type": "normal",
-    "hall": "Hall 8"
-  },
-  {
     "id": "mgsr5xivlg6a3l5d6ia",
     "timestamp": 1760837946774,
     "dateString": "19/10/2025",
@@ -828,15 +819,6 @@
     "hall": "Hall 2s"
   },
   {
-    "id": "mgvj3yw6q9z8kgds1w",
-    "timestamp": 1760750216838,
-    "dateString": "18/10/2025",
-    "hh": "08",
-    "mm": "16",
-    "type": "normal",
-    "hall": "Hall 19"
-  },
-  {
     "id": "mgvj403q2rz252w2uqy",
     "timestamp": 1760753818406,
     "dateString": "18/10/2025",
@@ -1206,15 +1188,6 @@
     "hall": "Hall 1-1"
   },
   {
-    "id": "mgvkq9h3eq79oqep8hp",
-    "timestamp": 1760750236599,
-    "dateString": "18/10/2025",
-    "hh": "08",
-    "mm": "17",
-    "type": "normal",
-    "hall": "Hall 25"
-  },
-  {
     "id": "mgvkr4dbchi0zum8hwc",
     "timestamp": 1760752076639,
     "dateString": "18/10/2025",
@@ -1242,15 +1215,6 @@
     "hall": "Hall 26"
   },
   {
-    "id": "mgvkujag8cd339qzr1a",
-    "timestamp": 1760750435944,
-    "dateString": "18/10/2025",
-    "hh": "08",
-    "mm": "20",
-    "type": "normal",
-    "hall": "Hall 27"
-  },
-  {
     "id": "mgvkvauizkb1l5rnltp",
     "timestamp": 1760835971658,
     "dateString": "19/10/2025",
@@ -1260,12 +1224,48 @@
     "hall": "Hall 21"
   },
   {
-    "id": "mgvkwe89d9q9txlu5dp",
-    "timestamp": 1760749922697,
+    "id": "mgvl37c9glz4fzkugwo",
+    "timestamp": 1760750840360,
     "dateString": "18/10/2025",
     "hh": "08",
-    "mm": "12",
+    "mm": "27",
     "type": "normal",
     "hall": "Hall 23"
+  },
+  {
+    "id": "mgvleymdxcpoo5wz4c",
+    "timestamp": 1760752288933,
+    "dateString": "18/10/2025",
+    "hh": "08",
+    "mm": "51",
+    "type": "normal",
+    "hall": "Hall 27"
+  },
+  {
+    "id": "mgvlflsx2f4bj7o5ikn",
+    "timestamp": 1760754118977,
+    "dateString": "18/10/2025",
+    "hh": "09",
+    "mm": "21",
+    "type": "normal",
+    "hall": "Hall 19"
+  },
+  {
+    "id": "mgvlg388rs3uma6b2l",
+    "timestamp": 1760752341560,
+    "dateString": "18/10/2025",
+    "hh": "08",
+    "mm": "52",
+    "type": "normal",
+    "hall": "Hall 25"
+  },
+  {
+    "id": "mgvlk6ml5ahy8ucizlb",
+    "timestamp": 1760754272589,
+    "dateString": "18/10/2025",
+    "hh": "09",
+    "mm": "24",
+    "type": "normal",
+    "hall": "Hall 8"
   }
 ]
