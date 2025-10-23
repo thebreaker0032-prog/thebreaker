@@ -1,14 +1,5 @@
 [
   {
-    "id": "mgsmb1c3sq2cgyio3le",
-    "timestamp": 1761254946914,
-    "dateString": "24/10/2025",
-    "hh": "04",
-    "mm": "29",
-    "type": "normal",
-    "hall": "Hall 1s"
-  },
-  {
     "id": "mgx74ymq4lsfpjy64g5",
     "timestamp": 1761418580114,
     "dateString": "26/10/2025",
@@ -27,15 +18,6 @@
     "hall": "Hall 2s"
   },
   {
-    "id": "mgz8zjpek1uh86nzjb",
-    "timestamp": 1761219879074,
-    "dateString": "23/10/2025",
-    "hh": "18",
-    "mm": "44",
-    "type": "normal",
-    "hall": "Hall 18"
-  },
-  {
     "id": "mgznr7u6rgdnwgzwfhi",
     "timestamp": 1761298684685,
     "dateString": "24/10/2025",
@@ -45,83 +27,11 @@
     "hall": "Hall 2s"
   },
   {
-    "id": "mgzokq61scy6z9lu3xm",
-    "timestamp": 1761246061464,
-    "dateString": "24/10/2025",
-    "hh": "02",
-    "mm": "01",
-    "type": "normal",
-    "hall": "Hall 3s"
-  },
-  {
     "id": "mh0edcylz8frydjt0qa",
     "timestamp": 1761300187772,
     "dateString": "24/10/2025",
     "hh": "17",
     "mm": "03",
-    "type": "normal",
-    "hall": "Hall 25"
-  },
-  {
-    "id": "mh0iiuzvbky9zlwsnsc",
-    "timestamp": 1761220762891,
-    "dateString": "23/10/2025",
-    "hh": "18",
-    "mm": "59",
-    "type": "normal",
-    "hall": "Hall 22"
-  },
-  {
-    "id": "mh0ik3o8au362su11vh",
-    "timestamp": 1761220820792,
-    "dateString": "23/10/2025",
-    "hh": "19",
-    "mm": "00",
-    "type": "normal",
-    "hall": "Hall 15"
-  },
-  {
-    "id": "mh0ilwj7401eknut7sz",
-    "timestamp": 1761220904851,
-    "dateString": "23/10/2025",
-    "hh": "19",
-    "mm": "01",
-    "type": "normal",
-    "hall": "Hall 28"
-  },
-  {
-    "id": "mh0k8ak0qpb1tgw4s2",
-    "timestamp": 1761223629071,
-    "dateString": "23/10/2025",
-    "hh": "19",
-    "mm": "47",
-    "type": "normal",
-    "hall": "Hall 13"
-  },
-  {
-    "id": "mh0k959nxorgdn5737q",
-    "timestamp": 1761223668875,
-    "dateString": "23/10/2025",
-    "hh": "19",
-    "mm": "47",
-    "type": "normal",
-    "hall": "Hall 23"
-  },
-  {
-    "id": "mh0kk3bw1gpms1uxi2g",
-    "timestamp": 1761224179580,
-    "dateString": "23/10/2025",
-    "hh": "19",
-    "mm": "56",
-    "type": "normal",
-    "hall": "Hall 23"
-  },
-  {
-    "id": "mh0ncwdejhfpgulzdw8",
-    "timestamp": 1761225282818,
-    "dateString": "23/10/2025",
-    "hh": "20",
-    "mm": "14",
     "type": "normal",
     "hall": "Hall 25"
   },
@@ -142,15 +52,6 @@
     "mm": "50",
     "type": "normal",
     "hall": "Hall 3s"
-  },
-  {
-    "id": "mh0paupnviyrbkqggna",
-    "timestamp": 1761232146587,
-    "dateString": "23/10/2025",
-    "hh": "22",
-    "mm": "09",
-    "type": "normal",
-    "hall": "Hall 18"
   },
   {
     "id": "mh0qq661ow23um02a3r",
@@ -187,15 +88,6 @@
     "mm": "14",
     "type": "normal",
     "hall": "Hall 8"
-  },
-  {
-    "id": "mh18uy4eh6viooe6zqe",
-    "timestamp": 1761243396830,
-    "dateString": "24/10/2025",
-    "hh": "01",
-    "mm": "16",
-    "type": "normal",
-    "hall": "Hall 11"
   },
   {
     "id": "mh18v0s4zmyvv7oe1fg",
@@ -342,15 +234,6 @@
     "hall": "Hall 11-1"
   },
   {
-    "id": "mh1ad7dn5e4qgxet4b8",
-    "timestamp": 1761245928251,
-    "dateString": "24/10/2025",
-    "hh": "01",
-    "mm": "58",
-    "type": "normal",
-    "hall": "Hall 11-1"
-  },
-  {
     "id": "mh1avytpke6jubp3ubr",
     "timestamp": 1761344003629,
     "dateString": "25/10/2025",
@@ -387,15 +270,6 @@
     "hall": "Hall 12"
   },
   {
-    "id": "mh1cvmos09zwxs8azvoe",
-    "timestamp": 1761250147132,
-    "dateString": "24/10/2025",
-    "hh": "03",
-    "mm": "09",
-    "type": "normal",
-    "hall": "Hall 12"
-  },
-  {
     "id": "mh1cwe7w8i8lmvil8p",
     "timestamp": 1761444582812,
     "dateString": "26/10/2025",
@@ -412,15 +286,6 @@
     "mm": "48",
     "type": "normal",
     "hall": "Hall 28"
-  },
-  {
-    "id": "mh1ecertwhhexqddmhk",
-    "timestamp": 1761252609641,
-    "dateString": "24/10/2025",
-    "hh": "03",
-    "mm": "50",
-    "type": "normal",
-    "hall": "Hall 2-1"
   },
   {
     "id": "mh1edbsoxx9m5k11anb",
@@ -567,15 +432,6 @@
     "hall": "Hall 11-1"
   },
   {
-    "id": "mh1pn1y9dh9rf4zrmv7",
-    "timestamp": 1761368782016,
-    "dateString": "25/10/2025",
-    "hh": "12",
-    "mm": "06",
-    "type": "normal",
-    "hall": "Hall 17"
-  },
-  {
     "id": "mh1qbt6ghdwonlj0ybb",
     "timestamp": 1761369937046,
     "dateString": "25/10/2025",
@@ -666,15 +522,6 @@
     "hall": "Hall 13"
   },
   {
-    "id": "mh1z78tlniya4i1tpud",
-    "timestamp": 1761222840585,
-    "dateString": "23/10/2025",
-    "hh": "19",
-    "mm": "34",
-    "type": "normal",
-    "hall": "Hall 14"
-  },
-  {
     "id": "mh1zaztj5pa0rfp4fg",
     "timestamp": 1761482215543,
     "dateString": "26/10/2025",
@@ -700,15 +547,6 @@
     "mm": "24",
     "type": "normal",
     "hall": "Hall 1-1"
-  },
-  {
-    "id": "mh27g9dao44as4n6qw",
-    "timestamp": 1761236698125,
-    "dateString": "23/10/2025",
-    "hh": "23",
-    "mm": "24",
-    "type": "normal",
-    "hall": "Hall 6"
   },
   {
     "id": "mh27hnceswefskoe4vc",
@@ -855,15 +693,6 @@
     "hall": "Hall 1-1"
   },
   {
-    "id": "mh2md1r3tg3yt8hljc",
-    "timestamp": 1761258142527,
-    "dateString": "24/10/2025",
-    "hh": "05",
-    "mm": "22",
-    "type": "normal",
-    "hall": "Hall 6"
-  },
-  {
     "id": "mh2n89s33gwxjugn1o3",
     "timestamp": 1761428799267,
     "dateString": "26/10/2025",
@@ -981,15 +810,6 @@
     "hall": "Hall 26"
   },
   {
-    "id": "mh2xd6qfro865v39x6",
-    "timestamp": 1761237024759,
-    "dateString": "23/10/2025",
-    "hh": "23",
-    "mm": "30",
-    "type": "normal",
-    "hall": "Hall 18"
-  },
-  {
     "id": "mh2xfmc81k5pob82yft",
     "timestamp": 1761366738295,
     "dateString": "25/10/2025",
@@ -1017,24 +837,6 @@
     "hall": "Hall 27"
   },
   {
-    "id": "mh2y8bl9qyzhbwdcmbo",
-    "timestamp": 1761238477389,
-    "dateString": "23/10/2025",
-    "hh": "23",
-    "mm": "54",
-    "type": "normal",
-    "hall": "Hall 16"
-  },
-  {
-    "id": "mh2y9ngf9s5e7hre88e",
-    "timestamp": 1761238539423,
-    "dateString": "23/10/2025",
-    "hh": "23",
-    "mm": "55",
-    "type": "normal",
-    "hall": "Hall 17"
-  },
-  {
     "id": "mh31nutbvn6uv2agfys",
     "timestamp": 1761373840990,
     "dateString": "25/10/2025",
@@ -1042,24 +844,6 @@
     "mm": "30",
     "type": "normal",
     "hall": "Hall 24"
-  },
-  {
-    "id": "mh31oq495b0ec51x0nv",
-    "timestamp": 1761244281561,
-    "dateString": "24/10/2025",
-    "hh": "01",
-    "mm": "31",
-    "type": "normal",
-    "hall": "Hall 17"
-  },
-  {
-    "id": "mh31pny3wkxnqmq5b4",
-    "timestamp": 1761244325403,
-    "dateString": "24/10/2025",
-    "hh": "01",
-    "mm": "32",
-    "type": "normal",
-    "hall": "Hall 20"
   },
   {
     "id": "mh32wjonkykd1d7wef",
@@ -1197,15 +981,6 @@
     "hall": "Hall 18"
   },
   {
-    "id": "mh3anfgqree8ccu6uok",
-    "timestamp": 1761237737642,
-    "dateString": "23/10/2025",
-    "hh": "23",
-    "mm": "42",
-    "type": "normal",
-    "hall": "Hall 19"
-  },
-  {
     "id": "mh3aovihsi2nvcq69l",
     "timestamp": 1761367405097,
     "dateString": "25/10/2025",
@@ -1249,5 +1024,239 @@
     "mm": "25",
     "type": "normal",
     "hall": "Hall 1s"
+  },
+  {
+    "id": "mh3dgfuqyjssebokd2e",
+    "timestamp": 1761393650402,
+    "dateString": "25/10/2025",
+    "hh": "19",
+    "mm": "00",
+    "type": "normal",
+    "hall": "Hall 22"
+  },
+  {
+    "id": "mh3f572k2uz31wbz1g9",
+    "timestamp": 1761396485036,
+    "dateString": "25/10/2025",
+    "hh": "19",
+    "mm": "48",
+    "type": "normal",
+    "hall": "Hall 15"
+  },
+  {
+    "id": "mh3f6lzpp27q8egvrf",
+    "timestamp": 1761396551029,
+    "dateString": "25/10/2025",
+    "hh": "19",
+    "mm": "49",
+    "type": "normal",
+    "hall": "Hall 28"
+  },
+  {
+    "id": "mh3f9gormx5h7hk6eyj",
+    "timestamp": 1761472224123,
+    "dateString": "26/10/2025",
+    "hh": "16",
+    "mm": "50",
+    "type": "normal",
+    "hall": "Hall 18"
+  },
+  {
+    "id": "mh3fabriv42c23hfw4e",
+    "timestamp": 1761310324397,
+    "dateString": "24/10/2025",
+    "hh": "19",
+    "mm": "52",
+    "type": "normal",
+    "hall": "Hall 13"
+  },
+  {
+    "id": "mh3fb0qhqhibq2drzzm",
+    "timestamp": 1761267156761,
+    "dateString": "24/10/2025",
+    "hh": "07",
+    "mm": "52",
+    "type": "normal",
+    "hall": "Hall 23"
+  },
+  {
+    "id": "mh3fgihab8ccc143dtn",
+    "timestamp": 1761397013037,
+    "dateString": "25/10/2025",
+    "hh": "19",
+    "mm": "56",
+    "type": "normal",
+    "hall": "Hall 23"
+  },
+  {
+    "id": "mh3gn1g7xaae9vpdj7",
+    "timestamp": 1761308997174,
+    "dateString": "24/10/2025",
+    "hh": "19",
+    "mm": "29",
+    "type": "normal",
+    "hall": "Hall 25"
+  },
+  {
+    "id": "mh3lcppqr6g3hmrckb",
+    "timestamp": 1761385313484,
+    "dateString": "25/10/2025",
+    "hh": "16",
+    "mm": "41",
+    "type": "normal",
+    "hall": "Hall 18"
+  },
+  {
+    "id": "mh3wq3ocdtk2qinaycl",
+    "timestamp": 1761403033883,
+    "dateString": "25/10/2025",
+    "hh": "21",
+    "mm": "37",
+    "type": "normal",
+    "hall": "Hall 3s"
+  },
+  {
+    "id": "mh3wtbvi8uojwl8vk5e",
+    "timestamp": 1761404564477,
+    "dateString": "25/10/2025",
+    "hh": "22",
+    "mm": "02",
+    "type": "normal",
+    "hall": "Hall 6"
+  },
+  {
+    "id": "mh3wuh7aacb0trwvya5",
+    "timestamp": 1761426218038,
+    "dateString": "26/10/2025",
+    "hh": "04",
+    "mm": "03",
+    "type": "normal",
+    "hall": "Hall 16"
+  },
+  {
+    "id": "mh3ww38772pikhiwqis",
+    "timestamp": 1761426293239,
+    "dateString": "26/10/2025",
+    "hh": "04",
+    "mm": "04",
+    "type": "normal",
+    "hall": "Hall 18"
+  },
+  {
+    "id": "mh3wxgq50h4ujgk8j8cd",
+    "timestamp": 1761325317388,
+    "dateString": "25/10/2025",
+    "hh": "00",
+    "mm": "01",
+    "type": "normal",
+    "hall": "Hall 19"
+  },
+  {
+    "id": "mh3wz1xwaq1qzv3qpqf",
+    "timestamp": 1761404831539,
+    "dateString": "25/10/2025",
+    "hh": "22",
+    "mm": "07",
+    "type": "normal",
+    "hall": "Hall 17"
+  },
+  {
+    "id": "mh3wzct9vde0z1qsrnb",
+    "timestamp": 1761599245629,
+    "dateString": "28/10/2025",
+    "hh": "04",
+    "mm": "07",
+    "type": "normal",
+    "hall": "Hall 17"
+  },
+  {
+    "id": "mh3x0twlvjj6bw0o4ts",
+    "timestamp": 1761426514437,
+    "dateString": "26/10/2025",
+    "hh": "04",
+    "mm": "08",
+    "type": "normal",
+    "hall": "Hall 14"
+  },
+  {
+    "id": "mh3x2h2fdq2ta5ldy2",
+    "timestamp": 1761426591110,
+    "dateString": "26/10/2025",
+    "hh": "04",
+    "mm": "09",
+    "type": "normal",
+    "hall": "Hall 11"
+  },
+  {
+    "id": "mh3x3kzl7y5408li0z5",
+    "timestamp": 1761368622848,
+    "dateString": "25/10/2025",
+    "hh": "12",
+    "mm": "03",
+    "type": "normal",
+    "hall": "Hall 17"
+  },
+  {
+    "id": "mh3x5eki26buka711so",
+    "timestamp": 1761405127842,
+    "dateString": "25/10/2025",
+    "hh": "22",
+    "mm": "12",
+    "type": "normal",
+    "hall": "Hall 20"
+  },
+  {
+    "id": "mh3x5hyibfqkbun1juv",
+    "timestamp": 1761426732234,
+    "dateString": "26/10/2025",
+    "hh": "04",
+    "mm": "12",
+    "type": "normal",
+    "hall": "Hall 20"
+  },
+  {
+    "id": "mh3x79wslp94j7z5sfp",
+    "timestamp": 1761426815116,
+    "dateString": "26/10/2025",
+    "hh": "04",
+    "mm": "13",
+    "type": "normal",
+    "hall": "Hall 11-1"
+  },
+  {
+    "id": "mh3xap406i1c2srzoik",
+    "timestamp": 1761513374784,
+    "dateString": "27/10/2025",
+    "hh": "04",
+    "mm": "16",
+    "type": "normal",
+    "hall": "Hall 12"
+  },
+  {
+    "id": "mh3xcnah1gstwrf0axs",
+    "timestamp": 1761513465737,
+    "dateString": "27/10/2025",
+    "hh": "04",
+    "mm": "17",
+    "type": "normal",
+    "hall": "Hall 2-1"
+  },
+  {
+    "id": "mh3xvq6s7oro6i6ro8b",
+    "timestamp": 1761859955955,
+    "dateString": "31/10/2025",
+    "hh": "04",
+    "mm": "32",
+    "type": "normal",
+    "hall": "Hall 1s"
+  },
+  {
+    "id": "mh3zr3o2lv6vjk1jao",
+    "timestamp": 1761341099377,
+    "dateString": "25/10/2025",
+    "hh": "04",
+    "mm": "24",
+    "type": "normal",
+    "hall": "Hall 6"
   }
 ]
