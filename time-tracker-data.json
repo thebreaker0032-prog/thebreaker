@@ -72,27 +72,9 @@
     "hall": "Hall 1s"
   },
   {
-    "id": "mh1haehtjkyiwsfbvc",
-    "timestamp": 1761451954816,
-    "dateString": "26/10/2025",
-    "hh": "11",
-    "mm": "12",
-    "type": "normal",
-    "hall": "Hall 2-1"
-  },
-  {
     "id": "mh1hee1vsmn54igp3wj",
     "timestamp": 1761538540866,
     "dateString": "27/10/2025",
-    "hh": "11",
-    "mm": "15",
-    "type": "normal",
-    "hall": "Hall 6"
-  },
-  {
-    "id": "mh1hehu2c9khvflanwp",
-    "timestamp": 1761452145770,
-    "dateString": "26/10/2025",
     "hh": "11",
     "mm": "15",
     "type": "normal",
@@ -1285,5 +1267,23 @@
     "mm": "09",
     "type": "normal",
     "hall": "Hall 9"
+  },
+  {
+    "id": "mh77n3gy9hdmr7gy7fb",
+    "timestamp": 1761625747952,
+    "dateString": "28/10/2025",
+    "hh": "11",
+    "mm": "29",
+    "type": "normal",
+    "hall": "Hall 2-1"
+  },
+  {
+    "id": "mh77nptmf79kkaqqbpq",
+    "timestamp": 1761712176922,
+    "dateString": "29/10/2025",
+    "hh": "11",
+    "mm": "29",
+    "type": "normal",
+    "hall": "Hall 6"
   }
 ]
