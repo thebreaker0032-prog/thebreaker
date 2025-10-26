@@ -19,6 +19,8 @@ var inBattle = false
 var loot = null
 var target = 0
 
+var ptroop = [Point(300, 640), Point(400, 640), Point(510, 640), Point(610, 640)]
+
 var pathzoom1 = [SwipePoint(Point(1308, 169), 12, 15), SwipePoint(Point(869, 366), 0, 15)]
 var pathzoom2 = [SwipePoint(Point(255, 473), 12, 15), SwipePoint(Point(759, 409), 0, 15)]
 var pathzoom = MultiSwipe.builder().add(pathzoom1).add(pathzoom2).setSParam(SParam.repeat(1).delay(0).waitNext(10).random(0)).build()
@@ -28,11 +30,11 @@ fun getTarget(id){
     return halls.get(id).get("target")
 }
 fun getLoot(id){
-    if(halls.get(id).get("loot") == "E") {
+    if (halls.get(id).get("loot") == "E") {
         return lootE
-    }else if(halls.get(id).get("loot") == "DE"){
+    } else if (halls.get(id).get("loot") == "DE") {
         return lootDE
-    }else{
+    } else {
         return lootG
     }
 }
@@ -67,7 +69,6 @@ fun checkLoot(){
         }
     }
 }
-
 fun resetGame(){
     Sys.globalAction("recent")
     wait(1000)
@@ -75,40 +76,72 @@ fun resetGame(){
     wait(500)
     Sys.openApp("com.supercell.clashofclans", "com.supercell.titan.GameApp")
 }
+fun setUpHero(){
+	heroing = hero.findAny(["king", "queen", "prince", "champion", "grand"])
+	heroing = heroing.filter(a => a != null)
+}
+fun setUpTroopHall(a, ctroop, _dx, _dy){
+	var ax = a.getX()
+	var ay = a.getY()
+	var d = []
+	var dx = []
+	var dy = []
+	for (var i = 0; i < ctroop.size; i = i + 1) {
+		d.push((ctroop[i] - 1) / 2)
+		dx.push(_dx / d[i])
+		dy.push(_dy / d[i])
+	}
+	return [Point(ax - _dx, ay - _dy), Point(ax + _dx, ay + _dy), dx, dy, d]
+}
+fun attack6(a, ctroop){
+	var hall6 = setUpTroopHall(a, ctroop, 300, 240)
+	setupHero()
+	if (heroing.size > 0) {
+		for (var i = 0; i < heroing.size; i = i + 1) {
+			click(heroing[i].getPoint())
+			click(a)
+		}
+	}
+	for (var i = 0; i < ctroop.size; i = i + 1) {
+		click(ptroop[i])
+		if (ctroop[i] % 2 != 0) {
+			click(a)
+		}
+		for (var y = 0; y < hall6[4][i]; y = y + 1) {
+			click(hall6[0].offset(hall6[2][i] * y, hall6[3][i] * y))
+			click(hall6[1].offset(-hall6[2][i] * y, -hall6[3][i] * y))
+		}
+	}
+}
+fun attack13(a, ctroop){	
+	var hall13 = setUpTroopHall(a, ctroop, 150, 120)
+	setupHero()
+	if (heroing.size > 0) {
+		for (var i = 0; i < heroing.size; i = i + 1) {
+			click(heroing[i].getPoint())
+			click(a)
+		}
+	}
+	click(ptroop[ctroop.size])
+	click(a)
+	for (var i = 0; i < ctroop.size; i = i + 1) {
+		click(ptroop[i])
+		if (ctroop[i] % 2 != 0) {
+			click(a)
+		}
+		for (var y = 0; y < hall13[4][i]; y = y + 1) {
+			click(hall13[0].offset(hall13[2][i] * y, hall13[3][i] * y))
+			click(hall13[1].offset(-hall13[2][i] * y, -hall13[3][i] * y))
+		}
+	}
+}
 fun attack(){
     if (found) {
         pathzoom.go()
         wait(500)
         swipe(pathset, SParam.repeat(1).delay(0).waitNext(10).random(0));
-
-        click(Point(300, 639))
-        wait(100)
-        while (!trooping) {
-            if (checkError()) {
-                return
-            }
-            swipe(pathtroop, SParam.repeat(1).delay(0).waitNext(10).random(0));
-            wait(100)
-            trooping = troop1.find("troop")
-        }
-        trooping = null
-        click(Point(400, 639))
-        wait(100)
-        while (!trooping) {
-            swipe(pathtroop, SParam.repeat(1).delay(0).waitNext(10).random(0));
-            trooping = troop2.find("troop")
-        }
-        heroing = hero.findAny(["king", "queen", "prince", "champion", "grand"])
-			 heroing = heroing.filter(a => a != null)
-        if(heroing.size > 0){
-            for(var i = 0; i < heroing.size; i = i + 1){
-                click(heroing[i].getPoint())
-                click(Point(1082, 296))
-                wait(100)
-            }
-        }
-        trooping = null
-			 heroing = null
+        attack6(Point(1082, 296), [4, 20])
+        attack13(Point(1082, 296), [8, 4, 11])
         resetGame()
         inBattle = false
     }
