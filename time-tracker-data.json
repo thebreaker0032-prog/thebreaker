@@ -108,15 +108,6 @@
     "hall": "Hall 13"
   },
   {
-    "id": "mh27f8n6exwo9h3lp8w",
-    "timestamp": 1761495850530,
-    "dateString": "26/10/2025",
-    "hh": "23",
-    "mm": "24",
-    "type": "normal",
-    "hall": "Hall 1-1"
-  },
-  {
     "id": "mh2g7b2zq0zftc1yk6n",
     "timestamp": 1761769796986,
     "dateString": "30/10/2025",
@@ -322,15 +313,6 @@
     "mm": "36",
     "type": "normal",
     "hall": "Hall 1-1"
-  },
-  {
-    "id": "mh54e4x7uyd9auq5xh",
-    "timestamp": 1761499358730,
-    "dateString": "27/10/2025",
-    "hh": "00",
-    "mm": "22",
-    "type": "normal",
-    "hall": "Hall 19"
   },
   {
     "id": "mh5k3zmvt14rjwxk69",
@@ -610,15 +592,6 @@
     "mm": "10",
     "type": "normal",
     "hall": "Hall 6"
-  },
-  {
-    "id": "mh6f81ip1kd9v5lgl8bh",
-    "timestamp": 1761492996337,
-    "dateString": "26/10/2025",
-    "hh": "22",
-    "mm": "36",
-    "type": "normal",
-    "hall": "Hall 23"
   },
   {
     "id": "mh6f8cmtfmgoa5tklwl",
@@ -1062,15 +1035,6 @@
     "hall": "Hall 28"
   },
   {
-    "id": "mh752bb0x7y4jgtj8x",
-    "timestamp": 1761491819100,
-    "dateString": "26/10/2025",
-    "hh": "22",
-    "mm": "16",
-    "type": "normal",
-    "hall": "Hall 26"
-  },
-  {
     "id": "mh76xy84tov6q88umaq",
     "timestamp": 1761577774755,
     "dateString": "27/10/2025",
@@ -1294,5 +1258,41 @@
     "mm": "05",
     "type": "normal",
     "hall": "Hall 4s"
+  },
+  {
+    "id": "mh7uvpl4xsvtbcsc35",
+    "timestamp": 1761923981031,
+    "dateString": "31/10/2025",
+    "hh": "22",
+    "mm": "19",
+    "type": "normal",
+    "hall": "Hall 26"
+  },
+  {
+    "id": "mh7vo9dga741aw45pug",
+    "timestamp": 1761666113044,
+    "dateString": "28/10/2025",
+    "hh": "22",
+    "mm": "41",
+    "type": "normal",
+    "hall": "Hall 23"
+  },
+  {
+    "id": "mh7xhc3w2i9koclhvu8",
+    "timestamp": 1761669149228,
+    "dateString": "28/10/2025",
+    "hh": "23",
+    "mm": "32",
+    "type": "normal",
+    "hall": "Hall 1-1"
+  },
+  {
+    "id": "mh7zbsgzz4yncuntssm",
+    "timestamp": 1761672249731,
+    "dateString": "29/10/2025",
+    "hh": "00",
+    "mm": "24",
+    "type": "normal",
+    "hall": "Hall 19"
   }
 ]
