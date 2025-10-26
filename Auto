@@ -1,1 +1,116 @@
 
+var findLoot = Region(168, 497, 120, 25)
+var nextArea = Region(1356, 476, 25, 25)
+var lootG = Region(110, 94, 140, 35) //Gold
+var lootE = Region(108, 134, 140, 35) //Elixir
+var lootDE = Region(104, 169, 140, 35) //Dark Elixir
+var troop1 = Region(290, 574, 62, 58)
+var troop2 = Region(389, 574, 62, 58)
+var hero = Region(453, 590, 893, 122)
+
+var findLooting = null
+var found = null
+var nextButton = null
+var trooping = null
+var heroing = null
+var result0 = null
+var result = null
+var inBattle = false
+var loot = null
+var target = 0
+
+var pathzoom1 = [SwipePoint(Point(1308, 169), 12, 15), SwipePoint(Point(869, 366), 0, 15)]
+var pathzoom2 = [SwipePoint(Point(255, 473), 12, 15), SwipePoint(Point(759, 409), 0, 15)]
+var pathzoom = MultiSwipe.builder().add(pathzoom1).add(pathzoom2).setSParam(SParam.repeat(1).delay(0).waitNext(10).random(0)).build()
+var pathset = [SwipePoint(Point(1237, 136), 12, 15), SwipePoint(Point(1237, 579), 0, 15), SwipePoint(Point(489, 579), 0, 15)];
+var pathtroop = [SwipePoint(Point(943, 174), 400, 15), SwipePoint(Point(1313, 468), 0, 15)];
+fun getTarget(id){
+    return halls.get(id).get("target")
+}
+fun getLoot(id){
+    if(halls.get(id).get("loot") == "E") {
+        return lootE
+    }else if(halls.get(id).get("loot") == "DE"){
+        return lootDE
+    }else{
+        return lootG
+    }
+}
+fun findEnemy(){
+    findLooting = findLoot.find("findLoot")
+    while (!findLooting) {
+        click(Point(133, 623))
+        findLooting = findLoot.find("findLoot")
+        wait(500)
+    }
+    click(findLooting.getPoint())
+    findLooting = null
+    nextButton = nextArea.find("find")
+    target = getTarget(change)
+    loot = getLoot(change)
+    inBattle = true
+}
+fun checkLoot(){
+    found = null
+    wait(200)
+    result0 = loot.read()
+    result = loot.readAsString()
+    if (result != null) {
+        var results = Num.parse(formatTime(result))
+        if (results != null) {
+            if (results < target) {
+                copyError([result0, result, results])
+                click(nextButton.getPoint())
+            } else {
+                found = true
+            }
+        }
+    }
+}
+
+fun resetGame(){
+    Sys.globalAction("recent")
+    wait(1000)
+    swipe([SwipePoint(Point(300, 700), 100, 50), SwipePoint(Point(850, 700), 0, 50)], SParam.repeat(1).delay(0).waitNext(10).random(0));
+    wait(500)
+    Sys.openApp("com.supercell.clashofclans", "com.supercell.titan.GameApp")
+}
+fun attack(){
+    if (found) {
+        pathzoom.go()
+        wait(500)
+        swipe(pathset, SParam.repeat(1).delay(0).waitNext(10).random(0));
+
+        click(Point(300, 639))
+        wait(100)
+        while (!trooping) {
+            if (checkError()) {
+                return
+            }
+            swipe(pathtroop, SParam.repeat(1).delay(0).waitNext(10).random(0));
+            wait(100)
+            trooping = troop1.find("troop")
+        }
+        trooping = null
+        click(Point(400, 639))
+        wait(100)
+        while (!trooping) {
+            swipe(pathtroop, SParam.repeat(1).delay(0).waitNext(10).random(0));
+            trooping = troop2.find("troop")
+        }
+        heroing = hero.findAny(["king", "queen", "prince", "champion", "grand"])
+			 heroing = heroing.filter(a => a != null)
+        if(heroing.size > 0){
+            for(var i = 0; i < heroing.size; i = i + 1){
+                click(heroing[i].getPoint())
+                click(Point(1082, 296))
+                wait(100)
+            }
+        }
+        trooping = null
+			 heroing = null
+        resetGame()
+        inBattle = false
+    }
+    nextButton = null
+}
