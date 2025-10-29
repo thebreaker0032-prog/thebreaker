@@ -558,15 +558,6 @@
     "hall": "Hall 2-1"
   },
   {
-    "id": "mh9sxq6360kmkmeu0tl",
-    "timestamp": 1761728448218,
-    "dateString": "29/10/2025",
-    "hh": "16",
-    "mm": "00",
-    "type": "normal",
-    "hall": "Hall 21"
-  },
-  {
     "id": "mh9szme0xoiuhdckx9",
     "timestamp": 1761886936631,
     "dateString": "31/10/2025",
@@ -1330,5 +1321,14 @@
     "mm": "46",
     "type": "normal",
     "hall": "Hall 8"
+  },
+  {
+    "id": "mhbrppnqu6crw9hyv4g",
+    "timestamp": 1761987727046,
+    "dateString": "1/11/2025",
+    "hh": "16",
+    "mm": "02",
+    "type": "normal",
+    "hall": "Hall 21"
   }
 ]
