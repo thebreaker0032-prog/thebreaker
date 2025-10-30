@@ -54,15 +54,6 @@
     "hall": "Hall 13"
   },
   {
-    "id": "mh9ca5mts271yhvotr",
-    "timestamp": 1761814474661,
-    "dateString": "30/10/2025",
-    "hh": "15",
-    "mm": "54",
-    "type": "lab",
-    "hall": "Hall 19"
-  },
-  {
     "id": "mh9d365sn07ohbe95fr",
     "timestamp": 1761917828368,
     "dateString": "31/10/2025",
@@ -198,15 +189,6 @@
     "hall": "Hall 11"
   },
   {
-    "id": "mhavhkz9mufrd1cyqep",
-    "timestamp": 1761836400020,
-    "dateString": "30/10/2025",
-    "hh": "22",
-    "mm": "00",
-    "type": "normal",
-    "hall": "Hall 22"
-  },
-  {
     "id": "mhavj6x63pqou633aew",
     "timestamp": 1761922875114,
     "dateString": "31/10/2025",
@@ -340,15 +322,6 @@
     "mm": "31",
     "type": "normal",
     "hall": "Hall 4s"
-  },
-  {
-    "id": "mhbkpkmql4thrawmxxi",
-    "timestamp": 1761839163217,
-    "dateString": "30/10/2025",
-    "hh": "22",
-    "mm": "46",
-    "type": "lab",
-    "hall": "Hall 23"
   },
   {
     "id": "mhbmcwjshoiu5hrn5hf",
@@ -646,15 +619,6 @@
     "mm": "28",
     "type": "normal",
     "hall": "Hall 11"
-  },
-  {
-    "id": "mhc3gx877126ir4pibc",
-    "timestamp": 1761838272343,
-    "dateString": "30/10/2025",
-    "hh": "22",
-    "mm": "31",
-    "type": "lab",
-    "hall": "Hall 24"
   },
   {
     "id": "mhc3udz4ernehkurnmw",
@@ -1348,5 +1312,41 @@
     "mm": "07",
     "type": "normal",
     "hall": "Hall 28"
+  },
+  {
+    "id": "mhdjn12s030i5ui2fp0i",
+    "timestamp": 1761961897299,
+    "dateString": "1/11/2025",
+    "hh": "08",
+    "mm": "51",
+    "type": "lab",
+    "hall": "Hall 24"
+  },
+  {
+    "id": "mhdjy1l0z3z54i83mn",
+    "timestamp": 1762268411171,
+    "dateString": "4/11/2025",
+    "hh": "22",
+    "mm": "00",
+    "type": "normal",
+    "hall": "Hall 22"
+  },
+  {
+    "id": "mhdjytgr7sny7tz0fuj",
+    "timestamp": 1762106627306,
+    "dateString": "3/11/2025",
+    "hh": "01",
+    "mm": "03",
+    "type": "lab",
+    "hall": "Hall 19"
+  },
+  {
+    "id": "mhdjzog9b3zyla8i93f",
+    "timestamp": 1761842787465,
+    "dateString": "30/10/2025",
+    "hh": "23",
+    "mm": "46",
+    "type": "lab",
+    "hall": "Hall 23"
   }
 ]
