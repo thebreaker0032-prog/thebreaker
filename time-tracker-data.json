@@ -27,15 +27,6 @@
     "hall": "Hall 12"
   },
   {
-    "id": "mh8epjs2m7vt1p2ggor",
-    "timestamp": 1761784425889,
-    "dateString": "30/10/2025",
-    "hh": "07",
-    "mm": "33",
-    "type": "normal",
-    "hall": "Hall 2-1"
-  },
-  {
     "id": "mh8etcavr74snmqgzx",
     "timestamp": 1761817062822,
     "dateString": "30/10/2025",
@@ -1339,5 +1330,14 @@
     "mm": "20",
     "type": "speed builder hall",
     "hall": "Hall 4s"
+  },
+  {
+    "id": "mhcp10puczyhmfb002",
+    "timestamp": 1762302881919,
+    "dateString": "5/11/2025",
+    "hh": "07",
+    "mm": "34",
+    "type": "normal",
+    "hall": "Hall 2-1"
   }
 ]
