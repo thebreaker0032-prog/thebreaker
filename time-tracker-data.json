@@ -205,5 +205,14 @@
     "mm": "46",
     "type": "speed builder hall",
     "hall": "2"
+  },
+  {
+    "id": "mpidrcgixv1ido8luw9",
+    "timestamp": 1779542730546,
+    "dateString": "23/5/2026",
+    "hh": "20",
+    "mm": "25",
+    "type": "lab",
+    "hall": "1"
   }
 ]
