@@ -207,74 +207,38 @@
     "hall": "6"
   },
   {
-    "id": "mpieut8mujysg7o9i9",
-    "timestamp": 1779544571878,
+    "id": "mpif6kd3hj5tgxnrp5",
+    "timestamp": 1779545120246,
     "dateString": "23/5/2026",
-    "hh": "20",
-    "mm": "56",
+    "hh": "21",
+    "mm": "05",
     "type": "builder hall",
     "hall": "1"
   },
   {
-    "id": "mpieuvd4qba9q5kdgnp",
-    "timestamp": 1779544634632,
+    "id": "mpif6mhh0ak9fjfx5qvc",
+    "timestamp": 1779545182997,
     "dateString": "23/5/2026",
-    "hh": "20",
-    "mm": "57",
+    "hh": "21",
+    "mm": "06",
     "type": "builder hall",
     "hall": "2"
   },
   {
-    "id": "mpieuxc8ix2uwrcraxe",
-    "timestamp": 1779544697192,
+    "id": "mpif6oj08uos3dhmxfl",
+    "timestamp": 1779545245644,
     "dateString": "23/5/2026",
-    "hh": "20",
-    "mm": "58",
+    "hh": "21",
+    "mm": "07",
     "type": "builder hall",
     "hall": "3"
   },
   {
-    "id": "mpieuzpz18zxiwv0qx4",
-    "timestamp": 1779544760279,
-    "dateString": "23/5/2026",
-    "hh": "20",
-    "mm": "59",
-    "type": "builder hall",
-    "hall": "4"
-  },
-  {
-    "id": "mpif0fpsh95myukzpyc",
-    "timestamp": 1779544834288,
+    "id": "mpif6qkgaxltqf3ezud",
+    "timestamp": 1779545308288,
     "dateString": "23/5/2026",
     "hh": "21",
-    "mm": "00",
-    "type": "builder hall",
-    "hall": "1"
-  },
-  {
-    "id": "mpif0ijqsmwif4z5n8",
-    "timestamp": 1779544897958,
-    "dateString": "23/5/2026",
-    "hh": "21",
-    "mm": "01",
-    "type": "builder hall",
-    "hall": "2"
-  },
-  {
-    "id": "mpif0kt8laoebf1czp9",
-    "timestamp": 1779544960892,
-    "dateString": "23/5/2026",
-    "hh": "21",
-    "mm": "02",
-    "type": "builder hall",
-    "hall": "3"
-  },
-  {
-    "id": "mpif0neuocpbbtd5pz9",
-    "timestamp": 1779545024262,
-    "dateString": "23/5/2026",
-    "hh": "21",
-    "mm": "03",
+    "mm": "08",
     "type": "builder hall",
     "hall": "4"
   }
