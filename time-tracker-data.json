@@ -205,32 +205,5 @@
     "mm": "46",
     "type": "speed builder hall",
     "hall": "2"
-  },
-  {
-    "id": "mpidrcgixv1ido8luw9",
-    "timestamp": 1779542730546,
-    "dateString": "23/5/2026",
-    "hh": "20",
-    "mm": "25",
-    "type": "lab",
-    "hall": "1"
-  },
-  {
-    "id": "mpidt99p9fu96ovxurf",
-    "timestamp": 1779542819725,
-    "dateString": "23/5/2026",
-    "hh": "20",
-    "mm": "26",
-    "type": "lab",
-    "hall": "2"
-  },
-  {
-    "id": "mpidtf1r510z0lguxg7",
-    "timestamp": 1779542887215,
-    "dateString": "23/5/2026",
-    "hh": "20",
-    "mm": "28",
-    "type": "lab",
-    "hall": "3"
   }
 ]
