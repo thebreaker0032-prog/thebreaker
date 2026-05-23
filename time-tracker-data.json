@@ -214,23 +214,5 @@
     "mm": "46",
     "type": "speed builder hall",
     "hall": "2"
-  },
-  {
-    "id": "mpiaalcappr7h0j1ruo",
-    "timestamp": 1779538590056,
-    "dateString": "23/5/2026",
-    "hh": "19",
-    "mm": "16",
-    "type": "builder hall",
-    "hall": "8"
-  },
-  {
-    "id": "mpialvfgdz30dm5450i",
-    "timestamp": 1779539116348,
-    "dateString": "23/5/2026",
-    "hh": "19",
-    "mm": "25",
-    "type": "builder hall",
-    "hall": "9"
   }
 ]
