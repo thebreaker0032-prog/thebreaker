@@ -250,14 +250,5 @@
     "mm": "37",
     "type": "builder hall",
     "hall": "4"
-  },
-  {
-    "id": "mpi93gd950t3t8v62ur",
-    "timestamp": 1779534897405,
-    "dateString": "23/5/2026",
-    "hh": "18",
-    "mm": "14",
-    "type": "lab",
-    "hall": "1"
   }
 ]
