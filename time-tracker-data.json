@@ -196,5 +196,14 @@
     "mm": "06",
     "type": "builder hall",
     "hall": "10"
+  },
+  {
+    "id": "mpj13y03p8pzq8pkg2c",
+    "timestamp": 1779582069507,
+    "dateString": "24/5/2026",
+    "hh": "07",
+    "mm": "21",
+    "type": "speed builder hall",
+    "hall": "5"
   }
 ]
