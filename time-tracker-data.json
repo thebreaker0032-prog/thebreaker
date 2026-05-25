@@ -223,23 +223,5 @@
     "mm": "44",
     "type": "builder hall",
     "hall": "7"
-  },
-  {
-    "id": "mpldkk7qoo8peztdar",
-    "timestamp": 1779724652534,
-    "dateString": "25/5/2026",
-    "hh": "22",
-    "mm": "57",
-    "type": "builder hall",
-    "hall": "8"
-  },
-  {
-    "id": "mpldxtc3ttehzvin8s",
-    "timestamp": 1779725270882,
-    "dateString": "25/5/2026",
-    "hh": "23",
-    "mm": "07",
-    "type": "builder hall",
-    "hall": "9"
   }
 ]
