@@ -250,41 +250,5 @@
     "mm": "20",
     "type": "builder hall",
     "hall": "5"
-  },
-  {
-    "id": "mpl4bua61aaf7qkbf7w",
-    "timestamp": 1779708289134,
-    "dateString": "25/5/2026",
-    "hh": "18",
-    "mm": "24",
-    "type": "builder hall",
-    "hall": "1"
-  },
-  {
-    "id": "mpl4bw31it558teyra",
-    "timestamp": 1779708351469,
-    "dateString": "25/5/2026",
-    "hh": "18",
-    "mm": "25",
-    "type": "builder hall",
-    "hall": "2"
-  },
-  {
-    "id": "mpl4bytuq25mwfpr0xf",
-    "timestamp": 1779708415026,
-    "dateString": "25/5/2026",
-    "hh": "18",
-    "mm": "26",
-    "type": "builder hall",
-    "hall": "3"
-  },
-  {
-    "id": "mpl4c0iyi5ay7uk8r28",
-    "timestamp": 1779708477226,
-    "dateString": "25/5/2026",
-    "hh": "18",
-    "mm": "27",
-    "type": "builder hall",
-    "hall": "4"
   }
 ]
