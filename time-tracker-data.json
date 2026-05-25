@@ -72,24 +72,6 @@
     "hall": "7"
   },
   {
-    "id": "mpk2190ot6l38xr3xgc",
-    "timestamp": 1779686389608,
-    "dateString": "25/5/2026",
-    "hh": "12",
-    "mm": "19",
-    "type": "speed builder hall",
-    "hall": "2"
-  },
-  {
-    "id": "mpk24k4pww6zebvmh2d",
-    "timestamp": 1779685463977,
-    "dateString": "25/5/2026",
-    "hh": "12",
-    "mm": "04",
-    "type": "speed builder hall",
-    "hall": "6"
-  },
-  {
     "id": "mpk2idup1iaq59fiq7b",
     "timestamp": 1779727449025,
     "dateString": "25/5/2026",
@@ -171,15 +153,6 @@
     "hall": "5"
   },
   {
-    "id": "mpki0ggroipxxzoap6",
-    "timestamp": 1779686406459,
-    "dateString": "25/5/2026",
-    "hh": "12",
-    "mm": "20",
-    "type": "speed builder hall",
-    "hall": "1"
-  },
-  {
     "id": "mpki2c55byxefbyqdou",
     "timestamp": 1779692374169,
     "dateString": "25/5/2026",
@@ -214,5 +187,59 @@
     "mm": "24",
     "type": "builder hall",
     "hall": "4"
+  },
+  {
+    "id": "mpkrymddb4oj6ty58e9",
+    "timestamp": 1779766236959,
+    "dateString": "26/5/2026",
+    "hh": "10",
+    "mm": "30",
+    "type": "speed builder hall",
+    "hall": "6"
+  },
+  {
+    "id": "mpkryya3rp3pkzrdwpj",
+    "timestamp": 1779730432395,
+    "dateString": "26/5/2026",
+    "hh": "00",
+    "mm": "33",
+    "type": "builder hall",
+    "hall": "6"
+  },
+  {
+    "id": "mpksx8qoq0ft15sjbb",
+    "timestamp": 1779767072255,
+    "dateString": "26/5/2026",
+    "hh": "10",
+    "mm": "44",
+    "type": "speed builder hall",
+    "hall": "2"
+  },
+  {
+    "id": "mpksxdaq9xk05fvoth",
+    "timestamp": 1779692198162,
+    "dateString": "25/5/2026",
+    "hh": "13",
+    "mm": "56",
+    "type": "builder hall",
+    "hall": "2"
+  },
+  {
+    "id": "mpksy21r2wgvoslgto",
+    "timestamp": 1779767170239,
+    "dateString": "26/5/2026",
+    "hh": "10",
+    "mm": "46",
+    "type": "speed builder hall",
+    "hall": "1"
+  },
+  {
+    "id": "mpksy5b0igql13msmfn",
+    "timestamp": 1779697214460,
+    "dateString": "25/5/2026",
+    "hh": "15",
+    "mm": "20",
+    "type": "builder hall",
+    "hall": "1"
   }
 ]
