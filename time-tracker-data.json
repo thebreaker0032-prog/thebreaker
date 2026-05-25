@@ -250,5 +250,23 @@
     "mm": "10",
     "type": "builder hall",
     "hall": "5"
+  },
+  {
+    "id": "mpl9a9p2c1x3u8mnadr",
+    "timestamp": 1779716613878,
+    "dateString": "25/5/2026",
+    "hh": "20",
+    "mm": "43",
+    "type": "lab",
+    "hall": "1"
+  },
+  {
+    "id": "mpl9ac6d0ku9wbk4osd",
+    "timestamp": 1779716677093,
+    "dateString": "25/5/2026",
+    "hh": "20",
+    "mm": "44",
+    "type": "lab",
+    "hall": "2"
   }
 ]
