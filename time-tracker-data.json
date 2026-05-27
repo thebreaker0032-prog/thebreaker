@@ -72,42 +72,6 @@
     "hall": "2"
   },
   {
-    "id": "mpmm7mv32q7gx28ep7b",
-    "timestamp": 1779848532158,
-    "dateString": "27/5/2026",
-    "hh": "09",
-    "mm": "22",
-    "type": "speed builder hall",
-    "hall": "1"
-  },
-  {
-    "id": "mpmm8k97wertb6am8tr",
-    "timestamp": 1779848635435,
-    "dateString": "27/5/2026",
-    "hh": "09",
-    "mm": "23",
-    "type": "speed builder hall",
-    "hall": "2"
-  },
-  {
-    "id": "mpmmbpb0aqzf5a2bfaa",
-    "timestamp": 1779845181948,
-    "dateString": "27/5/2026",
-    "hh": "08",
-    "mm": "26",
-    "type": "speed builder hall",
-    "hall": "4"
-  },
-  {
-    "id": "mpmmgdk933u5anfagge",
-    "timestamp": 1779847740009,
-    "dateString": "27/5/2026",
-    "hh": "09",
-    "mm": "09",
-    "type": "speed builder hall",
-    "hall": "6"
-  },
-  {
     "id": "mpmqmuk8h2lez3f8kek",
     "timestamp": 1779882900440,
     "dateString": "27/5/2026",
@@ -178,5 +142,59 @@
     "mm": "11",
     "type": "lab",
     "hall": "10"
+  },
+  {
+    "id": "mpnfc8m0qcccm7ukvm",
+    "timestamp": 1779926015831,
+    "dateString": "28/5/2026",
+    "hh": "06",
+    "mm": "53",
+    "type": "speed builder hall",
+    "hall": "4"
+  },
+  {
+    "id": "mpni8aj7h2z39q2o8zo",
+    "timestamp": 1779929370545,
+    "dateString": "28/5/2026",
+    "hh": "07",
+    "mm": "49",
+    "type": "speed builder hall",
+    "hall": "1"
+  },
+  {
+    "id": "mpni8mla6d51auju48",
+    "timestamp": 1779887326174,
+    "dateString": "27/5/2026",
+    "hh": "20",
+    "mm": "08",
+    "type": "builder hall",
+    "hall": "1"
+  },
+  {
+    "id": "mpni9lwepgrsnbgwemq",
+    "timestamp": 1779929431934,
+    "dateString": "28/5/2026",
+    "hh": "07",
+    "mm": "50",
+    "type": "speed builder hall",
+    "hall": "2"
+  },
+  {
+    "id": "mpni9ru1uv2xjv3s37",
+    "timestamp": 1779883719625,
+    "dateString": "27/5/2026",
+    "hh": "19",
+    "mm": "08",
+    "type": "builder hall",
+    "hall": "2"
+  },
+  {
+    "id": "mpnialu3xa50uudafa",
+    "timestamp": 1779932178507,
+    "dateString": "28/5/2026",
+    "hh": "08",
+    "mm": "36",
+    "type": "speed builder hall",
+    "hall": "6"
   }
 ]
