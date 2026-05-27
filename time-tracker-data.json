@@ -1,14 +1,5 @@
 [
   {
-    "id": "mpkt656zh2vjkgo3arp",
-    "timestamp": 1779855027560,
-    "dateString": "27/5/2026",
-    "hh": "11",
-    "mm": "10",
-    "type": "lab",
-    "hall": "5"
-  },
-  {
     "id": "mpl9xe4konrc697ikkk",
     "timestamp": 1779882992708,
     "dateString": "27/5/2026",
@@ -196,5 +187,14 @@
     "mm": "36",
     "type": "speed builder hall",
     "hall": "6"
+  },
+  {
+    "id": "mpnjro9qme6ue4yxwf",
+    "timestamp": 1779981034429,
+    "dateString": "28/5/2026",
+    "hh": "22",
+    "mm": "10",
+    "type": "lab",
+    "hall": "5"
   }
 ]
