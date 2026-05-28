@@ -259,5 +259,14 @@
     "mm": "10",
     "type": "builder hall",
     "hall": "2"
+  },
+  {
+    "id": "mpp3i7b2dvxrudw3bzd",
+    "timestamp": 1779949131038,
+    "dateString": "28/5/2026",
+    "hh": "13",
+    "mm": "18",
+    "type": "builder hall",
+    "hall": "2"
   }
 ]
