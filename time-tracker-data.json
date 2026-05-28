@@ -243,20 +243,11 @@
     "hall": "8"
   },
   {
-    "id": "mpowkl4lqtbadsb138s",
-    "timestamp": 1779937304946,
+    "id": "mpowxos0emrq6m10o4b",
+    "timestamp": 1779939416206,
     "dateString": "28/5/2026",
     "hh": "10",
-    "mm": "01",
-    "type": "builder hall",
-    "hall": "6"
-  },
-  {
-    "id": "mpowr9mw5i91qo05gs",
-    "timestamp": 1779937616648,
-    "dateString": "28/5/2026",
-    "hh": "10",
-    "mm": "06",
+    "mm": "36",
     "type": "builder hall",
     "hall": "6"
   }
