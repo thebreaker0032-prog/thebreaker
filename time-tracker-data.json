@@ -234,15 +234,6 @@
     "hall": "2"
   },
   {
-    "id": "mpq5oxbxvdwrq9rl2c",
-    "timestamp": 1780030610109,
-    "dateString": "29/5/2026",
-    "hh": "11",
-    "mm": "56",
-    "type": "lab",
-    "hall": "8"
-  },
-  {
     "id": "mpq6yu5y5jjo2t4lbmo",
     "timestamp": 1780087892181,
     "dateString": "30/5/2026",
@@ -268,5 +259,14 @@
     "mm": "52",
     "type": "lab",
     "hall": "2"
+  },
+  {
+    "id": "mpqgrm04n7cpt9wcnbh",
+    "timestamp": 1780279791167,
+    "dateString": "1/6/2026",
+    "hh": "09",
+    "mm": "09",
+    "type": "lab",
+    "hall": "8"
   }
 ]
