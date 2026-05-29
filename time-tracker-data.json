@@ -1,14 +1,5 @@
 [
   {
-    "id": "mpodqa0zq4e3wgjvzko",
-    "timestamp": 1780053857794,
-    "dateString": "29/5/2026",
-    "hh": "18",
-    "mm": "24",
-    "type": "lab",
-    "hall": "3"
-  },
-  {
     "id": "mpovm555ldhxf3u20ve",
     "timestamp": 1780135257929,
     "dateString": "30/5/2026",
@@ -90,30 +81,12 @@
     "hall": "4"
   },
   {
-    "id": "mpq3jj7xnubc8tbodr",
-    "timestamp": 1780052379306,
-    "dateString": "29/5/2026",
-    "hh": "17",
-    "mm": "59",
-    "type": "lab",
-    "hall": "5"
-  },
-  {
     "id": "mpq5bh5ovkg99jdbce",
     "timestamp": 1780090342618,
     "dateString": "30/5/2026",
     "hh": "04",
     "mm": "32",
     "type": "speed builder hall",
-    "hall": "6"
-  },
-  {
-    "id": "mpq5box1rypk1qmdoz",
-    "timestamp": 1780049012677,
-    "dateString": "29/5/2026",
-    "hh": "17",
-    "mm": "03",
-    "type": "builder hall",
     "hall": "6"
   },
   {
@@ -189,11 +162,38 @@
     "hall": "9"
   },
   {
-    "id": "mpqoofng8xvb7ofdlf4",
-    "timestamp": 1780044919899,
-    "dateString": "29/5/2026",
+    "id": "mpqt9lns50u8mbegp8t",
+    "timestamp": 1780135185926,
+    "dateString": "30/5/2026",
+    "hh": "16",
+    "mm": "59",
+    "type": "lab",
+    "hall": "5"
+  },
+  {
+    "id": "mpqu59xidzk2ypq46zq",
+    "timestamp": 1780302263711,
+    "dateString": "1/6/2026",
     "hh": "15",
-    "mm": "55",
+    "mm": "24",
+    "type": "lab",
+    "hall": "3"
+  },
+  {
+    "id": "mpqvy6wa6w5zfuxfltm",
+    "timestamp": 1780061332425,
+    "dateString": "29/5/2026",
+    "hh": "20",
+    "mm": "28",
+    "type": "builder hall",
+    "hall": "7"
+  },
+  {
+    "id": "mpqvyyc236jblbsmheo",
+    "timestamp": 1780125627986,
+    "dateString": "30/5/2026",
+    "hh": "14",
+    "mm": "20",
     "type": "speed builder hall",
     "hall": "7"
   }
