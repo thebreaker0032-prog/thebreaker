@@ -268,5 +268,14 @@
     "mm": "09",
     "type": "lab",
     "hall": "8"
+  },
+  {
+    "id": "mpqh2e6b5qlj2xtw8jl",
+    "timestamp": 1780075094242,
+    "dateString": "30/5/2026",
+    "hh": "00",
+    "mm": "18",
+    "type": "lab",
+    "hall": "10"
   }
 ]
