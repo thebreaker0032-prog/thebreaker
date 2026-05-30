@@ -126,15 +126,6 @@
     "hall": "8"
   },
   {
-    "id": "mprr8dnw7rntj3b4s1y",
-    "timestamp": 1780139735852,
-    "dateString": "30/5/2026",
-    "hh": "18",
-    "mm": "15",
-    "type": "speed builder hall",
-    "hall": "9"
-  },
-  {
     "id": "mprr96hkk3lf1hrb3if",
     "timestamp": 1780148893208,
     "dateString": "30/5/2026",
@@ -241,5 +232,14 @@
     "mm": "19",
     "type": "builder hall",
     "hall": "1"
+  },
+  {
+    "id": "mps9bk06wdt12o4heu",
+    "timestamp": 1780140357125,
+    "dateString": "30/5/2026",
+    "hh": "18",
+    "mm": "25",
+    "type": "speed builder hall",
+    "hall": "9"
   }
 ]
