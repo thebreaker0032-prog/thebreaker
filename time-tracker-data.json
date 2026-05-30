@@ -108,24 +108,6 @@
     "hall": "5"
   },
   {
-    "id": "mprc8ob5jbht6clz2d",
-    "timestamp": 1780127935409,
-    "dateString": "30/5/2026",
-    "hh": "14",
-    "mm": "58",
-    "type": "builder hall",
-    "hall": "5"
-  },
-  {
-    "id": "mprlvn31kjs3sw0t48",
-    "timestamp": 1780126483453,
-    "dateString": "30/5/2026",
-    "hh": "14",
-    "mm": "34",
-    "type": "builder hall",
-    "hall": "4"
-  },
-  {
     "id": "mprlwczs67efr1pdxf",
     "timestamp": 1780171217032,
     "dateString": "31/5/2026",
@@ -144,24 +126,6 @@
     "hall": "6"
   },
   {
-    "id": "mprp54plti6zxbor4y",
-    "timestamp": 1780127285049,
-    "dateString": "30/5/2026",
-    "hh": "14",
-    "mm": "48",
-    "type": "builder hall",
-    "hall": "2"
-  },
-  {
-    "id": "mprp5slm1i9qqy4izdr",
-    "timestamp": 1780128756010,
-    "dateString": "30/5/2026",
-    "hh": "15",
-    "mm": "12",
-    "type": "builder hall",
-    "hall": "8"
-  },
-  {
     "id": "mprr0xc7756io01a43c",
     "timestamp": 1780172028103,
     "dateString": "31/5/2026",
@@ -169,15 +133,6 @@
     "mm": "13",
     "type": "speed builder hall",
     "hall": "1"
-  },
-  {
-    "id": "mprr2a6p4242619xapj",
-    "timestamp": 1780129131408,
-    "dateString": "30/5/2026",
-    "hh": "15",
-    "mm": "18",
-    "type": "builder hall",
-    "hall": "2"
   },
   {
     "id": "mprr2jjmhe4tg6xq3gh",
@@ -196,15 +151,6 @@
     "mm": "45",
     "type": "speed builder hall",
     "hall": "4"
-  },
-  {
-    "id": "mprr6mrdhbhm3ato6qf",
-    "timestamp": 1780125734329,
-    "dateString": "30/5/2026",
-    "hh": "14",
-    "mm": "22",
-    "type": "speed builder hall",
-    "hall": "7"
   },
   {
     "id": "mprr798tm9ag6i13nd",
@@ -259,5 +205,41 @@
     "mm": "13",
     "type": "builder hall",
     "hall": "1"
+  },
+  {
+    "id": "mps2d2mekj2fsl6zmhk",
+    "timestamp": 1780148530596,
+    "dateString": "30/5/2026",
+    "hh": "20",
+    "mm": "42",
+    "type": "builder hall",
+    "hall": "4"
+  },
+  {
+    "id": "mps2td8qywb9th7mi5",
+    "timestamp": 1780207550858,
+    "dateString": "31/5/2026",
+    "hh": "13",
+    "mm": "05",
+    "type": "speed builder hall",
+    "hall": "7"
+  },
+  {
+    "id": "mps2tvvhn40bqcguj4p",
+    "timestamp": 1780140735005,
+    "dateString": "30/5/2026",
+    "hh": "18",
+    "mm": "32",
+    "type": "builder hall",
+    "hall": "7"
+  },
+  {
+    "id": "mps2xw6kx7zucwo0lvc",
+    "timestamp": 1780150702027,
+    "dateString": "30/5/2026",
+    "hh": "21",
+    "mm": "18",
+    "type": "builder hall",
+    "hall": "2"
   }
 ]
