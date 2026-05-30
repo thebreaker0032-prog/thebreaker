@@ -36,15 +36,6 @@
     "hall": "4"
   },
   {
-    "id": "mpq9svmsc01dr5nmsno",
-    "timestamp": 1780134772994,
-    "dateString": "30/5/2026",
-    "hh": "16",
-    "mm": "52",
-    "type": "lab",
-    "hall": "2"
-  },
-  {
     "id": "mpqgrm04n7cpt9wcnbh",
     "timestamp": 1780279791167,
     "dateString": "1/6/2026",
@@ -240,6 +231,15 @@
     "hh": "21",
     "mm": "18",
     "type": "builder hall",
+    "hall": "2"
+  },
+  {
+    "id": "mps6bp12el0xdo4u1f",
+    "timestamp": 1780300384790,
+    "dateString": "1/6/2026",
+    "hh": "14",
+    "mm": "53",
+    "type": "lab",
     "hall": "2"
   }
 ]
