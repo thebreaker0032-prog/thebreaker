@@ -351,19 +351,10 @@
     "hall": "4"
   },
   {
-    "id": "mpur2wd6ba9bkh4elha",
-    "timestamp": 1780291118682,
+    "id": "mpurh0lgcgsdu8uwi5",
+    "timestamp": 1780294777348,
     "dateString": "1/6/2026",
-    "hh": "12",
-    "mm": "18",
-    "type": "builder hall",
-    "hall": "4"
-  },
-  {
-    "id": "mpur5u2qf1eb492h29e",
-    "timestamp": 1780291195681,
-    "dateString": "1/6/2026",
-    "hh": "12",
+    "hh": "13",
     "mm": "19",
     "type": "builder hall",
     "hall": "9"
