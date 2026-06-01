@@ -1,23 +1,5 @@
 [
   {
-    "id": "mpqu59xidzk2ypq46zq",
-    "timestamp": 1780302263711,
-    "dateString": "1/6/2026",
-    "hh": "15",
-    "mm": "24",
-    "type": "lab",
-    "hall": "3"
-  },
-  {
-    "id": "mps6jbq4jr2vzhdyihb",
-    "timestamp": 1780304280796,
-    "dateString": "1/6/2026",
-    "hh": "15",
-    "mm": "58",
-    "type": "lab",
-    "hall": "6"
-  },
-  {
     "id": "mpsj9691qsl13qql4h",
     "timestamp": 1780322102149,
     "dateString": "1/6/2026",
@@ -178,5 +160,23 @@
     "mm": "06",
     "type": "lab",
     "hall": "5"
+  },
+  {
+    "id": "mpuy1ea98caihbreyzp",
+    "timestamp": 1780385065901,
+    "dateString": "2/6/2026",
+    "hh": "14",
+    "mm": "24",
+    "type": "lab",
+    "hall": "3"
+  },
+  {
+    "id": "mpuz7tykdauoh24ky7",
+    "timestamp": 1780387045771,
+    "dateString": "2/6/2026",
+    "hh": "14",
+    "mm": "57",
+    "type": "lab",
+    "hall": "6"
   }
 ]
