@@ -18,33 +18,6 @@
     "type": "lab"
   },
   {
-    "id": "mq1l168l3iptvfm5jcj",
-    "timestamp": 1780810333000,
-    "dateString": "7/6/2026",
-    "hh": "12",
-    "mm": "32",
-    "hall": "5",
-    "type": "builder hall"
-  },
-  {
-    "id": "mq1l168lwdvjjs4xb7",
-    "timestamp": 1780799089000,
-    "dateString": "7/6/2026",
-    "hh": "09",
-    "mm": "24",
-    "hall": "5",
-    "type": "builder hall"
-  },
-  {
-    "id": "mq1l168l92vaxzy6pbu",
-    "timestamp": 1780737579000,
-    "dateString": "6/6/2026",
-    "hh": "16",
-    "mm": "19",
-    "hall": "5",
-    "type": "lab"
-  },
-  {
     "id": "mq1l168l790lbc3xs7",
     "timestamp": 1780749616000,
     "dateString": "6/6/2026",
@@ -216,15 +189,6 @@
     "type": "builder hall"
   },
   {
-    "id": "mq1qp3vbbzv8a6nti7",
-    "timestamp": 1780737464000,
-    "dateString": "6/6/2026",
-    "hh": "16",
-    "mm": "17",
-    "hall": "9",
-    "type": "lab"
-  },
-  {
     "id": "mq1qp3vbrvpt2f5pd8",
     "timestamp": 1780790725000,
     "dateString": "7/6/2026",
@@ -312,6 +276,51 @@
     "hh": "07",
     "mm": "07",
     "hall": "8",
+    "type": "speed builder hall"
+  },
+  {
+    "id": "mq25k5sw5f25ur1wuhh",
+    "timestamp": 1780810332000,
+    "dateString": "7/6/2026",
+    "hh": "12",
+    "mm": "32",
+    "hall": "5",
+    "type": "builder hall"
+  },
+  {
+    "id": "mq25k5szzd8nlnujup",
+    "timestamp": 1780799088000,
+    "dateString": "7/6/2026",
+    "hh": "09",
+    "mm": "24",
+    "hall": "5",
+    "type": "builder hall"
+  },
+  {
+    "id": "mq25k5t08qgp8ksjxuw",
+    "timestamp": 1780996822000,
+    "dateString": "9/6/2026",
+    "hh": "16",
+    "mm": "20",
+    "hall": "5",
+    "type": "lab"
+  },
+  {
+    "id": "mq25k5t0n8zr4rfh1te",
+    "timestamp": 1780744687000,
+    "dateString": "6/6/2026",
+    "hh": "18",
+    "mm": "18",
+    "hall": "5",
+    "type": "speed lab"
+  },
+  {
+    "id": "mq25k5t0mij7mju5wq",
+    "timestamp": 1780796994000,
+    "dateString": "7/6/2026",
+    "hh": "08",
+    "mm": "49",
+    "hall": "5",
     "type": "speed builder hall"
   }
 ]
