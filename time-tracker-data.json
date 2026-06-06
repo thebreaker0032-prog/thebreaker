@@ -27,15 +27,6 @@
     "type": "builder hall"
   },
   {
-    "id": "mq1n5x0mzgz3wvkses9",
-    "timestamp": 1780746044000,
-    "dateString": "6/6/2026",
-    "hh": "18",
-    "mm": "40",
-    "hall": "7",
-    "type": "builder hall"
-  },
-  {
     "id": "mq1n5x0m5g5u4l5ivn7",
     "timestamp": 1780859982000,
     "dateString": "8/6/2026",
@@ -95,15 +86,6 @@
     "dateString": "7/6/2026",
     "hh": "05",
     "mm": "57",
-    "hall": "9",
-    "type": "builder hall"
-  },
-  {
-    "id": "mq28k19xaov7accnzk5",
-    "timestamp": 1780748080000,
-    "dateString": "6/6/2026",
-    "hh": "19",
-    "mm": "14",
     "hall": "9",
     "type": "builder hall"
   },
@@ -306,15 +288,6 @@
     "type": "lab"
   },
   {
-    "id": "mq28k19yz8dqxrx0yb",
-    "timestamp": 1780744747000,
-    "dateString": "6/6/2026",
-    "hh": "18",
-    "mm": "19",
-    "hall": "5",
-    "type": "speed lab"
-  },
-  {
     "id": "mq28k19y6414xsbq8np",
     "timestamp": 1780797054000,
     "dateString": "7/6/2026",
@@ -349,15 +322,6 @@
     "mm": "33",
     "hall": "6",
     "type": "lab"
-  },
-  {
-    "id": "mq28k19yo209qxsv15k",
-    "timestamp": 1780743596000,
-    "dateString": "6/6/2026",
-    "hh": "17",
-    "mm": "59",
-    "hall": "6",
-    "type": "speed lab"
   },
   {
     "id": "mq28k19yb0o6ivdlrue",
