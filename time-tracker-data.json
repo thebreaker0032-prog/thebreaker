@@ -36,15 +36,6 @@
     "type": "lab"
   },
   {
-    "id": "mrkn1t7nanxu7zp7fb",
-    "timestamp": 1784061830000,
-    "dateString": "15/7/2026",
-    "hh": "03",
-    "mm": "43",
-    "hall": "10",
-    "type": "lab"
-  },
-  {
     "id": "mrkn1t7nd8odtxeql0k",
     "timestamp": 1784110774000,
     "dateString": "15/7/2026",
@@ -178,15 +169,6 @@
     "mm": "09",
     "hall": "7",
     "type": "lab"
-  },
-  {
-    "id": "mrkn1t7ozz2ckao0l1c",
-    "timestamp": 1784063201000,
-    "dateString": "15/7/2026",
-    "hh": "04",
-    "mm": "06",
-    "hall": "6",
-    "type": "builder hall"
   },
   {
     "id": "mrkn1t7o7kz1s7zqtco",
