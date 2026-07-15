@@ -36,15 +36,6 @@
     "type": "lab"
   },
   {
-    "id": "mrlm2kkhjkt5v56eurh",
-    "timestamp": 1784110774000,
-    "dateString": "15/7/2026",
-    "hh": "17",
-    "mm": "19",
-    "hall": "10",
-    "type": "lab"
-  },
-  {
     "id": "mrlm2kkhhm5izgi15rv",
     "timestamp": 1784147182000,
     "dateString": "16/7/2026",
@@ -216,24 +207,6 @@
     "type": "builder hall"
   },
   {
-    "id": "mrlm2kkir3k5a5yg8ud",
-    "timestamp": 1784109568000,
-    "dateString": "15/7/2026",
-    "hh": "16",
-    "mm": "59",
-    "hall": "7",
-    "type": "lab"
-  },
-  {
-    "id": "mrlm2kkiebpda5p64b",
-    "timestamp": 1784136579000,
-    "dateString": "16/7/2026",
-    "hh": "00",
-    "mm": "29",
-    "hall": "7",
-    "type": "lab"
-  },
-  {
     "id": "mrlm2kki63b1h7eyu8p",
     "timestamp": 1784213858000,
     "dateString": "16/7/2026",
@@ -277,24 +250,6 @@
     "mm": "42",
     "hall": "6",
     "type": "builder hall"
-  },
-  {
-    "id": "mrlm2kki1iwydtcazym",
-    "timestamp": 1784116321000,
-    "dateString": "15/7/2026",
-    "hh": "18",
-    "mm": "52",
-    "hall": "6",
-    "type": "lab"
-  },
-  {
-    "id": "mrlm2kki6hh3eak4l6o",
-    "timestamp": 1784103346000,
-    "dateString": "15/7/2026",
-    "hh": "15",
-    "mm": "15",
-    "hall": "6",
-    "type": "lab"
   },
   {
     "id": "mrlm2kkiicbvcapwb9h",
@@ -419,15 +374,6 @@
     "dateString": "16/7/2026",
     "hh": "02",
     "mm": "19",
-    "hall": "4",
-    "type": "lab"
-  },
-  {
-    "id": "mrlm2kkjkkspqt18xc",
-    "timestamp": 1784110616000,
-    "dateString": "15/7/2026",
-    "hh": "17",
-    "mm": "16",
     "hall": "4",
     "type": "lab"
   },
