@@ -18,15 +18,6 @@
     "type": "normal"
   },
   {
-    "id": "mrulyvgnpmj00rdtfnh",
-    "timestamp": 1784638666000,
-    "dateString": "21/7/2026",
-    "hh": "19",
-    "mm": "57",
-    "hall": "8",
-    "type": "normal"
-  },
-  {
     "id": "mrulyvgn0ff58j00qoc",
     "timestamp": 1784661809000,
     "dateString": "22/7/2026",
@@ -412,15 +403,6 @@
     "mm": "49",
     "hall": "5",
     "type": "lab"
-  },
-  {
-    "id": "mrulyvgp3rqnmanexae",
-    "timestamp": 1784638879000,
-    "dateString": "21/7/2026",
-    "hh": "20",
-    "mm": "01",
-    "hall": "5",
-    "type": "pet"
   },
   {
     "id": "mrulyvgpwsfb6ipyho",
