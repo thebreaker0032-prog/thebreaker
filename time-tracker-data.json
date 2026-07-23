@@ -1,123 +1,6 @@
 [
   {
-    "id": "mrx65tu8xll7s6zuex9",
-    "timestamp": 1784817171000,
-    "dateString": "23/7/2026",
-    "hh": "21",
-    "mm": "32",
-    "hall": "5",
-    "type": "normal"
-  },
-  {
-    "id": "mrx65tv7mgx8gieyex",
-    "timestamp": 1784793357000,
-    "dateString": "23/7/2026",
-    "hh": "14",
-    "mm": "55",
-    "hall": "5",
-    "type": "normal"
-  },
-  {
-    "id": "mrx65tv7ismsuferbwo",
-    "timestamp": 1784828828000,
-    "dateString": "24/7/2026",
-    "hh": "00",
-    "mm": "47",
-    "hall": "5",
-    "type": "normal"
-  },
-  {
-    "id": "mrx65tv7xlwfqk4wfi",
-    "timestamp": 1784836579000,
-    "dateString": "24/7/2026",
-    "hh": "02",
-    "mm": "56",
-    "hall": "5",
-    "type": "normal"
-  },
-  {
-    "id": "mrx65tv7dtbbqv4nwdr",
-    "timestamp": 1784818234000,
-    "dateString": "23/7/2026",
-    "hh": "21",
-    "mm": "50",
-    "hall": "5",
-    "type": "normal"
-  },
-  {
-    "id": "mrx65tv7w70vuz9v6ua",
-    "timestamp": 1784795813000,
-    "dateString": "23/7/2026",
-    "hh": "15",
-    "mm": "36",
-    "hall": "5",
-    "type": "normal"
-  },
-  {
-    "id": "mrx65tv7ju0ppn3z8nc",
-    "timestamp": 1784922969000,
-    "dateString": "25/7/2026",
-    "hh": "02",
-    "mm": "56",
-    "hall": "5",
-    "type": "builder hall"
-  },
-  {
-    "id": "mrx65tv7xjjqm33ohco",
-    "timestamp": 1785005334000,
-    "dateString": "26/7/2026",
-    "hh": "01",
-    "mm": "48",
-    "hall": "5",
-    "type": "builder hall"
-  },
-  {
-    "id": "mrx65tv74y85ywu7rd3",
-    "timestamp": 1784850392000,
-    "dateString": "24/7/2026",
-    "hh": "06",
-    "mm": "46",
-    "hall": "5",
-    "type": "builder hall"
-  },
-  {
-    "id": "mrx65tv8wihgrixy3b",
-    "timestamp": 1784880244000,
-    "dateString": "24/7/2026",
-    "hh": "15",
-    "mm": "04",
-    "hall": "5",
-    "type": "lab"
-  },
-  {
-    "id": "mrx65tv83bwfmlvvk38",
-    "timestamp": 1784808243000,
-    "dateString": "23/7/2026",
-    "hh": "19",
-    "mm": "04",
-    "hall": "5",
-    "type": "lab"
-  },
-  {
-    "id": "mrx65tv8h66j4djm315",
-    "timestamp": 1784898096000,
-    "dateString": "24/7/2026",
-    "hh": "20",
-    "mm": "01",
-    "hall": "5",
-    "type": "pet"
-  },
-  {
-    "id": "mrx65tv88lq2e8i17zw",
-    "timestamp": 1784849029000,
-    "dateString": "24/7/2026",
-    "hh": "06",
-    "mm": "23",
-    "hall": "5",
-    "type": "speed builder hall"
-  },
-  {
-    "id": "mrx65tv8opwnzggmncm",
+    "id": "mrxdjjn7ze4f5tqw0tg",
     "timestamp": 1784837728000,
     "dateString": "24/7/2026",
     "hh": "03",
@@ -126,25 +9,25 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tv8vp004er11p",
-    "timestamp": 1784795398000,
-    "dateString": "23/7/2026",
-    "hh": "15",
-    "mm": "29",
+    "id": "mrxdjjo1n0p5m1m1g0t",
+    "timestamp": 1784848922000,
+    "dateString": "24/7/2026",
+    "hh": "06",
+    "mm": "22",
     "hall": "10",
     "type": "normal"
   },
   {
-    "id": "mrx65tv82iys8q7776k",
-    "timestamp": 1784793190000,
-    "dateString": "23/7/2026",
-    "hh": "14",
+    "id": "mrxdjjo1003t81s7projg",
+    "timestamp": 1784836426000,
+    "dateString": "24/7/2026",
+    "hh": "02",
     "mm": "53",
     "hall": "10",
     "type": "normal"
   },
   {
-    "id": "mrx65tv8qdgzq8mhgvs",
+    "id": "mrxdjjo1zzpafqmrvp",
     "timestamp": 1784835391000,
     "dateString": "24/7/2026",
     "hh": "02",
@@ -153,16 +36,16 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tv8lbljvadkn7f",
-    "timestamp": 1784800449000,
-    "dateString": "23/7/2026",
-    "hh": "16",
-    "mm": "54",
+    "id": "mrxdjjo1ypgc63hpma",
+    "timestamp": 1784853186000,
+    "dateString": "24/7/2026",
+    "hh": "07",
+    "mm": "33",
     "hall": "10",
     "type": "normal"
   },
   {
-    "id": "mrx65tv87x9wlzew4eg",
+    "id": "mrxdjjo1ayzhm8g92op",
     "timestamp": 1784909114000,
     "dateString": "24/7/2026",
     "hh": "23",
@@ -171,7 +54,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tv862vqg66u2a8",
+    "id": "mrxdjjo1i85gk66dlc",
     "timestamp": 1785074376000,
     "dateString": "26/7/2026",
     "hh": "20",
@@ -180,7 +63,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tv8b4iibcecb1k",
+    "id": "mrxdjjo155q69l3743l",
     "timestamp": 1784824194000,
     "dateString": "23/7/2026",
     "hh": "23",
@@ -189,7 +72,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tv8731n2ovporc",
+    "id": "mrxdjjo2o338glo97v",
     "timestamp": 1784870583000,
     "dateString": "24/7/2026",
     "hh": "12",
@@ -198,7 +81,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tv8iy8ln7ie9gr",
+    "id": "mrxdjjo2azkvdqj3por",
     "timestamp": 1784887503000,
     "dateString": "24/7/2026",
     "hh": "17",
@@ -207,7 +90,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tv8bl61rlkklz",
+    "id": "mrxdjjo2tdurxs51bui",
     "timestamp": 1784873092000,
     "dateString": "24/7/2026",
     "hh": "13",
@@ -216,7 +99,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tv89kz4knkn44t",
+    "id": "mrxdjjo2c068h8lrbrb",
     "timestamp": 1784813906000,
     "dateString": "23/7/2026",
     "hh": "20",
@@ -225,34 +108,34 @@
     "type": "pet"
   },
   {
-    "id": "mrx65tv9lgl9mnsvpk",
-    "timestamp": 1784848853000,
+    "id": "mrxdjjo2sekysped8li",
+    "timestamp": 1784849000000,
     "dateString": "24/7/2026",
     "hh": "06",
-    "mm": "20",
+    "mm": "23",
     "hall": "10",
     "type": "speed builder hall"
   },
   {
-    "id": "mrx65tv9co5dve3r105",
-    "timestamp": 1784794891000,
-    "dateString": "23/7/2026",
-    "hh": "15",
+    "id": "mrxdjjo2dn9si5p38i",
+    "timestamp": 1784848892000,
+    "dateString": "24/7/2026",
+    "hh": "06",
     "mm": "21",
     "hall": "9",
     "type": "normal"
   },
   {
-    "id": "mrx65tv9ftm5k8gel0k",
-    "timestamp": 1784792284000,
-    "dateString": "23/7/2026",
-    "hh": "14",
-    "mm": "38",
+    "id": "mrxdjjo2s8aqmkymfxg",
+    "timestamp": 1784844133000,
+    "dateString": "24/7/2026",
+    "hh": "05",
+    "mm": "02",
     "hall": "9",
     "type": "normal"
   },
   {
-    "id": "mrx65tv9c1nhzclis4",
+    "id": "mrxdjjo2bxp5p87u7nj",
     "timestamp": 1784823411000,
     "dateString": "23/7/2026",
     "hh": "23",
@@ -261,7 +144,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tv9zv0ea06j93r",
+    "id": "mrxdjjo2hpd88fxav6",
     "timestamp": 1784811410000,
     "dateString": "23/7/2026",
     "hh": "19",
@@ -270,7 +153,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tv9hdndaj79x8t",
+    "id": "mrxdjjo2xg38lts15b",
     "timestamp": 1784816710000,
     "dateString": "23/7/2026",
     "hh": "21",
@@ -279,7 +162,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tv9g8427hkyx47",
+    "id": "mrxdjjo2co4bhbya45u",
     "timestamp": 1784932718000,
     "dateString": "25/7/2026",
     "hh": "05",
@@ -288,7 +171,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tv9tuaswnzq4q9",
+    "id": "mrxdjjo26qsmtihj9ov",
     "timestamp": 1784974154000,
     "dateString": "25/7/2026",
     "hh": "17",
@@ -297,7 +180,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tv9wxigyifh6i",
+    "id": "mrxdjjo2j4pwioyul5c",
     "timestamp": 1785025198000,
     "dateString": "26/7/2026",
     "hh": "07",
@@ -306,7 +189,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tv9hhsj8k2gnlo",
+    "id": "mrxdjjo2u11hof5q9c",
     "timestamp": 1785118460000,
     "dateString": "27/7/2026",
     "hh": "09",
@@ -315,7 +198,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tv9tgkd44ihgve",
+    "id": "mrxdjjo21hnbopzg0ex",
     "timestamp": 1785108563000,
     "dateString": "27/7/2026",
     "hh": "06",
@@ -324,7 +207,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tv9dm1pvl94qbs",
+    "id": "mrxdjjo2phyyph2sa9",
     "timestamp": 1784885492000,
     "dateString": "24/7/2026",
     "hh": "16",
@@ -333,7 +216,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tv9he7d3k1io3m",
+    "id": "mrxdjjo21c6ysdkhyti",
     "timestamp": 1785038384000,
     "dateString": "26/7/2026",
     "hh": "10",
@@ -342,16 +225,16 @@
     "type": "pet"
   },
   {
-    "id": "mrx65tv94cc6q8l29kk",
-    "timestamp": 1784848911000,
+    "id": "mrxdjjo24zr82uqqcem",
+    "timestamp": 1784849091000,
     "dateString": "24/7/2026",
     "hh": "06",
-    "mm": "21",
+    "mm": "24",
     "hall": "9",
     "type": "speed builder hall"
   },
   {
-    "id": "mrx65tv9h971n71usv8",
+    "id": "mrxdjjo2ui8fwrsh8ao",
     "timestamp": 1784833069000,
     "dateString": "24/7/2026",
     "hh": "01",
@@ -360,7 +243,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tv95rc9c2pahfu",
+    "id": "mrxdjjo2nckzz6skiyg",
     "timestamp": 1784833112000,
     "dateString": "24/7/2026",
     "hh": "01",
@@ -369,7 +252,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tv9nm96fm6f8mm",
+    "id": "mrxdjjo2udf2taa088o",
     "timestamp": 1784808326000,
     "dateString": "23/7/2026",
     "hh": "19",
@@ -378,16 +261,16 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tv95n0zauelwrm",
-    "timestamp": 1784793534000,
-    "dateString": "23/7/2026",
-    "hh": "14",
-    "mm": "58",
+    "id": "mrxdjjo2cjumbbokg75",
+    "timestamp": 1784870958000,
+    "dateString": "24/7/2026",
+    "hh": "12",
+    "mm": "29",
     "hall": "8",
     "type": "normal"
   },
   {
-    "id": "mrx65tv97228bfy5nxr",
+    "id": "mrxdjjo2la36fliap0b",
     "timestamp": 1784816784000,
     "dateString": "23/7/2026",
     "hh": "21",
@@ -396,16 +279,16 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tv98izld42ozaq",
-    "timestamp": 1784801453000,
-    "dateString": "23/7/2026",
-    "hh": "17",
-    "mm": "10",
+    "id": "mrxdjjo2idmddcfe9tp",
+    "timestamp": 1784956435000,
+    "dateString": "25/7/2026",
+    "hh": "12",
+    "mm": "13",
     "hall": "8",
     "type": "normal"
   },
   {
-    "id": "mrx65tv91e0nioat8tb",
+    "id": "mrxdjjo2f41ly027vha",
     "timestamp": 1785044593000,
     "dateString": "26/7/2026",
     "hh": "12",
@@ -414,7 +297,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tv9toepi3yesha",
+    "id": "mrxdjjo3k3sdnuqf0f",
     "timestamp": 1784830263000,
     "dateString": "24/7/2026",
     "hh": "01",
@@ -423,7 +306,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tv9lismlcs0ag",
+    "id": "mrxdjjo39wa0pkfyj4n",
     "timestamp": 1784926850000,
     "dateString": "25/7/2026",
     "hh": "04",
@@ -432,7 +315,16 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tv920fmxktafc9",
+    "id": "mrxdjjo3p5kfzn0os9",
+    "timestamp": 1785190186000,
+    "dateString": "28/7/2026",
+    "hh": "05",
+    "mm": "09",
+    "hall": "8",
+    "type": "lab"
+  },
+  {
+    "id": "mrxdjjo329ku0vt0a8b",
     "timestamp": 1784966680000,
     "dateString": "25/7/2026",
     "hh": "15",
@@ -441,34 +333,34 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tv9by5b40p5cih",
-    "timestamp": 1784801335000,
-    "dateString": "23/7/2026",
-    "hh": "17",
-    "mm": "08",
-    "hall": "8",
-    "type": "lab"
-  },
-  {
-    "id": "mrx65tv9nwvmk3zbtqe",
-    "timestamp": 1784793555000,
-    "dateString": "23/7/2026",
-    "hh": "14",
+    "id": "mrxdjjo3ro2c20s92ra",
+    "timestamp": 1785077972000,
+    "dateString": "26/7/2026",
+    "hh": "21",
     "mm": "59",
     "hall": "8",
     "type": "pet"
   },
   {
-    "id": "mrx65tv9m96se8ru8v",
-    "timestamp": 1784848722000,
+    "id": "mrxdjjo3wuvahc24aq",
+    "timestamp": 1784850803000,
     "dateString": "24/7/2026",
     "hh": "06",
-    "mm": "18",
+    "mm": "53",
+    "hall": "8",
+    "type": "speed lab"
+  },
+  {
+    "id": "mrxdjjo3dl4bmdmly4",
+    "timestamp": 1784848886000,
+    "dateString": "24/7/2026",
+    "hh": "06",
+    "mm": "21",
     "hall": "8",
     "type": "speed builder hall"
   },
   {
-    "id": "mrx65tvacho1z6zqdrt",
+    "id": "mrxdjjo3mexf4lajitj",
     "timestamp": 1784821885000,
     "dateString": "23/7/2026",
     "hh": "22",
@@ -477,25 +369,25 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvat6i4raj9ejn",
-    "timestamp": 1784795621000,
-    "dateString": "23/7/2026",
-    "hh": "15",
-    "mm": "33",
+    "id": "mrxdjjo3hrhwvfinyx",
+    "timestamp": 1784848947000,
+    "dateString": "24/7/2026",
+    "hh": "06",
+    "mm": "22",
     "hall": "7",
     "type": "normal"
   },
   {
-    "id": "mrx65tva0jzy5ckr88t5",
-    "timestamp": 1784791209000,
-    "dateString": "23/7/2026",
-    "hh": "14",
+    "id": "mrxdjjo3l0xx4v4eu4b",
+    "timestamp": 1784834448000,
+    "dateString": "24/7/2026",
+    "hh": "02",
     "mm": "20",
     "hall": "7",
     "type": "normal"
   },
   {
-    "id": "mrx65tva2xv3ihc8qn4",
+    "id": "mrxdjjo39ic8c7ncmf8",
     "timestamp": 1784850119000,
     "dateString": "24/7/2026",
     "hh": "06",
@@ -504,7 +396,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tva18airnarmzjj",
+    "id": "mrxdjjo3gswdivwhl76",
     "timestamp": 1784808090000,
     "dateString": "23/7/2026",
     "hh": "19",
@@ -513,16 +405,16 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvamkg9bwivjns",
-    "timestamp": 1784795177000,
-    "dateString": "23/7/2026",
-    "hh": "15",
-    "mm": "26",
+    "id": "mrxdjjo3c7vggakcc3n",
+    "timestamp": 1784952107000,
+    "dateString": "25/7/2026",
+    "hh": "11",
+    "mm": "01",
     "hall": "7",
     "type": "normal"
   },
   {
-    "id": "mrx65tvawfgak5jmc1o",
+    "id": "mrxdjjo3bl1aa7i2wet",
     "timestamp": 1784968636000,
     "dateString": "25/7/2026",
     "hh": "15",
@@ -531,7 +423,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tva2evu9q0s05",
+    "id": "mrxdjjo3ijsw1uzdmxp",
     "timestamp": 1785040234000,
     "dateString": "26/7/2026",
     "hh": "11",
@@ -540,7 +432,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tva1my4rgygyjm",
+    "id": "mrxdjjo3egis7d9hi",
     "timestamp": 1785036100000,
     "dateString": "26/7/2026",
     "hh": "10",
@@ -549,7 +441,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tvahdgvjhha8nb",
+    "id": "mrxdjjo3qv75nhjzg5",
     "timestamp": 1785081868000,
     "dateString": "26/7/2026",
     "hh": "23",
@@ -558,7 +450,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tvaumust38rmn",
+    "id": "mrxdjjo3anc2uhg82wl",
     "timestamp": 1784874575000,
     "dateString": "24/7/2026",
     "hh": "13",
@@ -567,7 +459,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tvae4cc0hqnp7",
+    "id": "mrxdjjo3njjw5nqzr",
     "timestamp": 1784862006000,
     "dateString": "24/7/2026",
     "hh": "10",
@@ -576,16 +468,16 @@
     "type": "pet"
   },
   {
-    "id": "mrx65tvaxnnakiujo5a",
-    "timestamp": 1784848937000,
+    "id": "mrxdjjo3m3aj6v3664o",
+    "timestamp": 1784849087000,
     "dateString": "24/7/2026",
     "hh": "06",
-    "mm": "22",
+    "mm": "24",
     "hall": "7",
     "type": "speed builder hall"
   },
   {
-    "id": "mrx65tvajrtdqzvt0m",
+    "id": "mrxdjjo3khdvzpnkjj",
     "timestamp": 1784820989000,
     "dateString": "23/7/2026",
     "hh": "22",
@@ -594,7 +486,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvabqwu0q9hp8j",
+    "id": "mrxdjjo3neyuq1lcw9",
     "timestamp": 1784837144000,
     "dateString": "24/7/2026",
     "hh": "03",
@@ -603,7 +495,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvaeph2391nf6",
+    "id": "mrxdjjo3a5z01utpo1k",
     "timestamp": 1784817393000,
     "dateString": "23/7/2026",
     "hh": "21",
@@ -612,7 +504,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvaxnwhmz8jtm",
+    "id": "mrxdjjo3rqbvpzc99rs",
     "timestamp": 1784811345000,
     "dateString": "23/7/2026",
     "hh": "19",
@@ -621,16 +513,16 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvajmcni4twjw",
-    "timestamp": 1784795639000,
-    "dateString": "23/7/2026",
-    "hh": "15",
-    "mm": "33",
+    "id": "mrxdjjo3n3qcsr03oic",
+    "timestamp": 1784848962000,
+    "dateString": "24/7/2026",
+    "hh": "06",
+    "mm": "22",
     "hall": "6",
     "type": "normal"
   },
   {
-    "id": "mrx65tvavphj1qihh5i",
+    "id": "mrxdjjo3h34xdrs34fg",
     "timestamp": 1784903512000,
     "dateString": "24/7/2026",
     "hh": "21",
@@ -639,34 +531,34 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvalv2293i3k8o",
-    "timestamp": 1784970369000,
+    "id": "mrxdjjo36aevccl5mrc",
+    "timestamp": 1784975604000,
     "dateString": "25/7/2026",
-    "hh": "16",
-    "mm": "06",
+    "hh": "17",
+    "mm": "33",
     "hall": "6",
     "type": "builder hall"
   },
   {
-    "id": "mrx65tvaeirydoq88zg",
-    "timestamp": 1784864440000,
+    "id": "mrxdjjo3299uur6hmoc",
+    "timestamp": 1784869675000,
     "dateString": "24/7/2026",
-    "hh": "10",
-    "mm": "40",
+    "hh": "12",
+    "mm": "07",
     "hall": "6",
     "type": "builder hall"
   },
   {
-    "id": "mrx65tva3o0fy1xu7yj",
-    "timestamp": 1784843611000,
+    "id": "mrxdjjo3o37hqoygxo",
+    "timestamp": 1784848846000,
     "dateString": "24/7/2026",
-    "hh": "04",
-    "mm": "53",
+    "hh": "06",
+    "mm": "20",
     "hall": "6",
     "type": "builder hall"
   },
   {
-    "id": "mrx65tvagf6tkdglkw8",
+    "id": "mrxdjjo3x1npf68pjcf",
     "timestamp": 1785063785000,
     "dateString": "26/7/2026",
     "hh": "18",
@@ -675,7 +567,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tvaylhxp6kjhmm",
+    "id": "mrxdjjo3ttlfmdt555r",
     "timestamp": 1784990431000,
     "dateString": "25/7/2026",
     "hh": "21",
@@ -684,7 +576,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tvako5wktl054",
+    "id": "mrxdjjo31w9f7473xrs",
     "timestamp": 1785011475000,
     "dateString": "26/7/2026",
     "hh": "03",
@@ -693,16 +585,133 @@
     "type": "pet"
   },
   {
-    "id": "mrx65tva01yr5gb5799u",
-    "timestamp": 1784801555000,
-    "dateString": "23/7/2026",
-    "hh": "17",
-    "mm": "12",
+    "id": "mrxdjjo3o8iw233tb3",
+    "timestamp": 1784882563000,
+    "dateString": "24/7/2026",
+    "hh": "15",
+    "mm": "42",
     "hall": "6",
     "type": "speed builder hall"
   },
   {
-    "id": "mrx65tvagt3e9gab95g",
+    "id": "mrxdjjo4jjxadnzukn",
+    "timestamp": 1784817171000,
+    "dateString": "23/7/2026",
+    "hh": "21",
+    "mm": "32",
+    "hall": "5",
+    "type": "normal"
+  },
+  {
+    "id": "mrxdjjo4519udjgzhiq",
+    "timestamp": 1784844975000,
+    "dateString": "24/7/2026",
+    "hh": "05",
+    "mm": "16",
+    "hall": "5",
+    "type": "normal"
+  },
+  {
+    "id": "mrxdjjo4823wkn8qsyv",
+    "timestamp": 1784828833000,
+    "dateString": "24/7/2026",
+    "hh": "00",
+    "mm": "47",
+    "hall": "5",
+    "type": "normal"
+  },
+  {
+    "id": "mrxdjjo4azo4mmm5ted",
+    "timestamp": 1784836579000,
+    "dateString": "24/7/2026",
+    "hh": "02",
+    "mm": "56",
+    "hall": "5",
+    "type": "normal"
+  },
+  {
+    "id": "mrxdjjo4qxngbo0nlxs",
+    "timestamp": 1784818234000,
+    "dateString": "23/7/2026",
+    "hh": "21",
+    "mm": "50",
+    "hall": "5",
+    "type": "normal"
+  },
+  {
+    "id": "mrxdjjo4jjntgiacy0h",
+    "timestamp": 1784952223000,
+    "dateString": "25/7/2026",
+    "hh": "11",
+    "mm": "03",
+    "hall": "5",
+    "type": "normal"
+  },
+  {
+    "id": "mrxdjjo49d9yp84qyxi",
+    "timestamp": 1784922969000,
+    "dateString": "25/7/2026",
+    "hh": "02",
+    "mm": "56",
+    "hall": "5",
+    "type": "builder hall"
+  },
+  {
+    "id": "mrxdjjo4wnlffccxb68",
+    "timestamp": 1785005334000,
+    "dateString": "26/7/2026",
+    "hh": "01",
+    "mm": "48",
+    "hall": "5",
+    "type": "builder hall"
+  },
+  {
+    "id": "mrxdjjo4xyjw40jk9n",
+    "timestamp": 1784850392000,
+    "dateString": "24/7/2026",
+    "hh": "06",
+    "mm": "46",
+    "hall": "5",
+    "type": "builder hall"
+  },
+  {
+    "id": "mrxdjjo4r9o5i74lk7h",
+    "timestamp": 1784880244000,
+    "dateString": "24/7/2026",
+    "hh": "15",
+    "mm": "04",
+    "hall": "5",
+    "type": "lab"
+  },
+  {
+    "id": "mrxdjjo4uzc3pbt409",
+    "timestamp": 1784808243000,
+    "dateString": "23/7/2026",
+    "hh": "19",
+    "mm": "04",
+    "hall": "5",
+    "type": "lab"
+  },
+  {
+    "id": "mrxdjjo4txszeyohdk",
+    "timestamp": 1784898096000,
+    "dateString": "24/7/2026",
+    "hh": "20",
+    "mm": "01",
+    "hall": "5",
+    "type": "pet"
+  },
+  {
+    "id": "mrxdjjo44cr7cnod38r",
+    "timestamp": 1784849171000,
+    "dateString": "24/7/2026",
+    "hh": "06",
+    "mm": "26",
+    "hall": "5",
+    "type": "speed builder hall"
+  },
+  {
+    "id": "mrxdjjo4rhvkxt7p4s8",
     "timestamp": 1784821086000,
     "dateString": "23/7/2026",
     "hh": "22",
@@ -711,7 +720,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvawkkvpfhaxp",
+    "id": "mrxdjjo4kip317xgoe",
     "timestamp": 1784825067000,
     "dateString": "23/7/2026",
     "hh": "23",
@@ -720,16 +729,16 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvac51jsjxkjph",
-    "timestamp": 1784791583000,
-    "dateString": "23/7/2026",
-    "hh": "14",
+    "id": "mrxdjjo4q8voxumqgp",
+    "timestamp": 1784834805000,
+    "dateString": "24/7/2026",
+    "hh": "02",
     "mm": "26",
     "hall": "4",
     "type": "normal"
   },
   {
-    "id": "mrx65tvauj3zvt8vtjc",
+    "id": "mrxdjjo4jd6n0rzxsu",
     "timestamp": 1784831833000,
     "dateString": "24/7/2026",
     "hh": "01",
@@ -738,7 +747,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvadcsacba27ek",
+    "id": "mrxdjjo4rt4prvo7j4",
     "timestamp": 1784816770000,
     "dateString": "23/7/2026",
     "hh": "21",
@@ -747,7 +756,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvakkqze3h415f",
+    "id": "mrxdjjo4jw12lb1p5h",
     "timestamp": 1784812549000,
     "dateString": "23/7/2026",
     "hh": "20",
@@ -756,7 +765,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvaj91ywssyhgm",
+    "id": "mrxdjjo4t8n2kwqlhz",
     "timestamp": 1784872519000,
     "dateString": "24/7/2026",
     "hh": "12",
@@ -765,7 +774,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tvaa1tr5ybp7s",
+    "id": "mrxdjjo4vl2ymr474w",
     "timestamp": 1784993775000,
     "dateString": "25/7/2026",
     "hh": "22",
@@ -774,7 +783,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tvafgyh8we2yb5",
+    "id": "mrxdjjo4zfqwd12rv8c",
     "timestamp": 1784851485000,
     "dateString": "24/7/2026",
     "hh": "07",
@@ -783,7 +792,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tva8s3f9h452v9",
+    "id": "mrxdjjo4a0dn1qfelu",
     "timestamp": 1785005385000,
     "dateString": "26/7/2026",
     "hh": "01",
@@ -792,7 +801,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tva9aqwiv620bh",
+    "id": "mrxdjjo4gtgl6eqku6a",
     "timestamp": 1785067431000,
     "dateString": "26/7/2026",
     "hh": "19",
@@ -801,7 +810,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tvac5s4cllfozb",
+    "id": "mrxdjjo40kigmihkj2fj",
     "timestamp": 1784881928000,
     "dateString": "24/7/2026",
     "hh": "15",
@@ -810,16 +819,16 @@
     "type": "pet"
   },
   {
-    "id": "mrx65tvaq4ba0nx393f",
-    "timestamp": 1784848975000,
+    "id": "mrxdjjo4pgpej2lmsnd",
+    "timestamp": 1784849085000,
     "dateString": "24/7/2026",
     "hh": "06",
-    "mm": "22",
+    "mm": "24",
     "hall": "4",
     "type": "speed builder hall"
   },
   {
-    "id": "mrx65tvbyw6v87zajyn",
+    "id": "mrxdjjo4m9hw0a2108g",
     "timestamp": 1784822911000,
     "dateString": "23/7/2026",
     "hh": "23",
@@ -828,16 +837,16 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvb5tmfhs7qu4k",
-    "timestamp": 1784795751000,
-    "dateString": "23/7/2026",
-    "hh": "15",
-    "mm": "35",
+    "id": "mrxdjjo4jkb38d55pu",
+    "timestamp": 1784848973000,
+    "dateString": "24/7/2026",
+    "hh": "06",
+    "mm": "22",
     "hall": "3",
     "type": "normal"
   },
   {
-    "id": "mrx65tvb69zvxzz7kql",
+    "id": "mrxdjjo4i3phqjpzor",
     "timestamp": 1784814387000,
     "dateString": "23/7/2026",
     "hh": "20",
@@ -846,7 +855,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvbilgw30f6hu",
+    "id": "mrxdjjo40ynu9zf6ufa",
     "timestamp": 1784835334000,
     "dateString": "24/7/2026",
     "hh": "02",
@@ -855,7 +864,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvbmb1w34trsl",
+    "id": "mrxdjjo4z9q9wba0ewl",
     "timestamp": 1784816756000,
     "dateString": "23/7/2026",
     "hh": "21",
@@ -864,7 +873,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvb7pr9fulrotn",
+    "id": "mrxdjjo4u04maba64n8",
     "timestamp": 1784944679000,
     "dateString": "25/7/2026",
     "hh": "08",
@@ -873,7 +882,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvbmyu0exsl6f",
+    "id": "mrxdjjo41bgneoeufgh",
     "timestamp": 1784850078000,
     "dateString": "24/7/2026",
     "hh": "06",
@@ -882,7 +891,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tvb68mda3myp7p",
+    "id": "mrxdjjo4acf0otvtsjm",
     "timestamp": 1785064479000,
     "dateString": "26/7/2026",
     "hh": "18",
@@ -891,7 +900,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tvb1w1g5p5urxc",
+    "id": "mrxdjjo4xv5x83m5ih",
     "timestamp": 1784928164000,
     "dateString": "25/7/2026",
     "hh": "04",
@@ -900,7 +909,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tvbd9hq9i27zd9",
+    "id": "mrxdjjo4sfhgjp7zfc",
     "timestamp": 1784966620000,
     "dateString": "25/7/2026",
     "hh": "15",
@@ -909,7 +918,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tvbm19dajzoinq",
+    "id": "mrxdjjo4msqx89ynms",
     "timestamp": 1785012224000,
     "dateString": "26/7/2026",
     "hh": "03",
@@ -918,7 +927,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tvbvzkkplj8ueo",
+    "id": "mrxdjjo48nbbiuuhscj",
     "timestamp": 1784970026000,
     "dateString": "25/7/2026",
     "hh": "16",
@@ -927,16 +936,16 @@
     "type": "pet"
   },
   {
-    "id": "mrx65tvbcscnc5ld6t7",
-    "timestamp": 1784848954000,
+    "id": "mrxdjjo40zfzq8n9rhp8",
+    "timestamp": 1784849103000,
     "dateString": "24/7/2026",
     "hh": "06",
-    "mm": "22",
+    "mm": "25",
     "hall": "3",
     "type": "speed builder hall"
   },
   {
-    "id": "mrx65tvbautfnru6dqd",
+    "id": "mrxdjjo4nq0w2epih9d",
     "timestamp": 1784820209000,
     "dateString": "23/7/2026",
     "hh": "22",
@@ -945,7 +954,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvbetzk8sen01r",
+    "id": "mrxdjjo41brbqoifqmo",
     "timestamp": 1784837018000,
     "dateString": "24/7/2026",
     "hh": "03",
@@ -954,16 +963,16 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvbhkmolp3sjd7",
-    "timestamp": 1784799296000,
-    "dateString": "23/7/2026",
-    "hh": "16",
-    "mm": "34",
+    "id": "mrxdjjo4us1vrmt05r",
+    "timestamp": 1784837717000,
+    "dateString": "24/7/2026",
+    "hh": "03",
+    "mm": "15",
     "hall": "2",
     "type": "normal"
   },
   {
-    "id": "mrx65tvb24whfiv109i",
+    "id": "mrxdjjo472mskx2unes",
     "timestamp": 1784828055000,
     "dateString": "24/7/2026",
     "hh": "00",
@@ -972,7 +981,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvbe7e2bydkqra",
+    "id": "mrxdjjo4k0kdr307rwd",
     "timestamp": 1784806968000,
     "dateString": "23/7/2026",
     "hh": "18",
@@ -981,7 +990,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvbc64uvqpjsan",
+    "id": "mrxdjjo4b9cravyin8r",
     "timestamp": 1784902504000,
     "dateString": "24/7/2026",
     "hh": "21",
@@ -990,7 +999,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvbb14g6o3ipls",
+    "id": "mrxdjjo4mxmncd3k0ya",
     "timestamp": 1784941805000,
     "dateString": "25/7/2026",
     "hh": "08",
@@ -999,7 +1008,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tvboqywp5gg5b",
+    "id": "mrxdjjo5uopof85sfw",
     "timestamp": 1784913947000,
     "dateString": "25/7/2026",
     "hh": "00",
@@ -1008,7 +1017,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tvbfj06fbvrb2p",
+    "id": "mrxdjjo557d9ycqav4e",
     "timestamp": 1785202390000,
     "dateString": "28/7/2026",
     "hh": "08",
@@ -1017,7 +1026,7 @@
     "type": "builder hall"
   },
   {
-    "id": "mrx65tvb4yl80ygk51k",
+    "id": "mrxdjjo5s9bfhh5g6ba",
     "timestamp": 1784914584000,
     "dateString": "25/7/2026",
     "hh": "00",
@@ -1026,7 +1035,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tvb738az6ox584",
+    "id": "mrxdjjo5ce4zvj0qqce",
     "timestamp": 1785052903000,
     "dateString": "26/7/2026",
     "hh": "15",
@@ -1035,7 +1044,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tvbqtzx5wfx6a8",
+    "id": "mrxdjjo5pol6xe45bnk",
     "timestamp": 1784934431000,
     "dateString": "25/7/2026",
     "hh": "06",
@@ -1044,16 +1053,16 @@
     "type": "pet"
   },
   {
-    "id": "mrx65tvbk3qpiklob8n",
-    "timestamp": 1784848981000,
+    "id": "mrxdjjo5q5kg6nw7z6",
+    "timestamp": 1784849139000,
     "dateString": "24/7/2026",
     "hh": "06",
-    "mm": "23",
+    "mm": "25",
     "hall": "2",
     "type": "speed builder hall"
   },
   {
-    "id": "mrx65tvbod9mg6mbys",
+    "id": "mrxdjjo5s84pv3hzxa",
     "timestamp": 1784816744000,
     "dateString": "23/7/2026",
     "hh": "21",
@@ -1062,34 +1071,34 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvbsurw6y75rsc",
-    "timestamp": 1784795486000,
-    "dateString": "23/7/2026",
-    "hh": "15",
-    "mm": "31",
+    "id": "mrxdjjo5qpiitzjhbs8",
+    "timestamp": 1784848934000,
+    "dateString": "24/7/2026",
+    "hh": "06",
+    "mm": "22",
     "hall": "1",
     "type": "normal"
   },
   {
-    "id": "mrx65tvb66e6c6i3hd5",
-    "timestamp": 1784790883000,
+    "id": "mrxdjjo5m5jvdwmk4s",
+    "timestamp": 1784820926000,
     "dateString": "23/7/2026",
+    "hh": "22",
+    "mm": "35",
+    "hall": "1",
+    "type": "normal"
+  },
+  {
+    "id": "mrxdjjo59e4ixav0xyb",
+    "timestamp": 1784876815000,
+    "dateString": "24/7/2026",
     "hh": "14",
-    "mm": "14",
+    "mm": "06",
     "hall": "1",
     "type": "normal"
   },
   {
-    "id": "mrx65tvb9zqu6cxm32b",
-    "timestamp": 1784799362000,
-    "dateString": "23/7/2026",
-    "hh": "16",
-    "mm": "36",
-    "hall": "1",
-    "type": "normal"
-  },
-  {
-    "id": "mrx65tvbj48rlwxuuel",
+    "id": "mrxdjjo51qkbf0h74ma",
     "timestamp": 1784816739000,
     "dateString": "23/7/2026",
     "hh": "21",
@@ -1098,7 +1107,7 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvb4f3x5col1dr",
+    "id": "mrxdjjo5hvtwy0k6sk5",
     "timestamp": 1784873292000,
     "dateString": "24/7/2026",
     "hh": "13",
@@ -1107,34 +1116,34 @@
     "type": "normal"
   },
   {
-    "id": "mrx65tvbx1rtm5509r9",
-    "timestamp": 1784888169000,
+    "id": "mrxdjjo58cikj1h6hkk",
+    "timestamp": 1784887584000,
     "dateString": "24/7/2026",
     "hh": "17",
-    "mm": "16",
+    "mm": "06",
     "hall": "1",
     "type": "builder hall"
   },
   {
-    "id": "mrx65tvbaqpjlw5s54n",
-    "timestamp": 1784889565000,
+    "id": "mrxdjjo5lns479lwcsn",
+    "timestamp": 1784888980000,
     "dateString": "24/7/2026",
     "hh": "17",
-    "mm": "39",
+    "mm": "29",
     "hall": "1",
     "type": "builder hall"
   },
   {
-    "id": "mrx65tvbax1qb9l4o6i",
-    "timestamp": 1784912382000,
-    "dateString": "24/7/2026",
-    "hh": "23",
-    "mm": "59",
+    "id": "mrxdjjo5gmjqolp1g1",
+    "timestamp": 1784927997000,
+    "dateString": "25/7/2026",
+    "hh": "04",
+    "mm": "19",
     "hall": "1",
     "type": "builder hall"
   },
   {
-    "id": "mrx65tvbrjo8ib4qgs",
+    "id": "mrxdjjo58qu4yxt0yft",
     "timestamp": 1784955801000,
     "dateString": "25/7/2026",
     "hh": "12",
@@ -1143,7 +1152,7 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tvbci62e3sese7",
+    "id": "mrxdjjo51of37ks3crp",
     "timestamp": 1784916034000,
     "dateString": "25/7/2026",
     "hh": "01",
@@ -1152,20 +1161,20 @@
     "type": "lab"
   },
   {
-    "id": "mrx65tvbz79kr500foa",
-    "timestamp": 1784793599000,
-    "dateString": "23/7/2026",
-    "hh": "14",
-    "mm": "59",
+    "id": "mrxdjjo5ujsw3bhipjn",
+    "timestamp": 1785078017000,
+    "dateString": "26/7/2026",
+    "hh": "22",
+    "mm": "00",
     "hall": "1",
     "type": "pet"
   },
   {
-    "id": "mrx65tvbyx8ybhrjon",
-    "timestamp": 1784801658000,
-    "dateString": "23/7/2026",
-    "hh": "17",
-    "mm": "14",
+    "id": "mrxdjjo54qtc2pcyvau",
+    "timestamp": 1784883660000,
+    "dateString": "24/7/2026",
+    "hh": "16",
+    "mm": "01",
     "hall": "1",
     "type": "speed builder hall"
   }
