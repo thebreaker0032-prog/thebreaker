@@ -1071,15 +1071,6 @@
     "type": "normal"
   },
   {
-    "id": "mrwyw7mwgvp5346pxn",
-    "timestamp": 1784780170000,
-    "dateString": "23/7/2026",
-    "hh": "11",
-    "mm": "16",
-    "hall": "9",
-    "type": "normal"
-  },
-  {
     "id": "mrwyw7mwco9rfzqgezr",
     "timestamp": 1784811410000,
     "dateString": "23/7/2026",
@@ -1150,15 +1141,6 @@
     "mm": "30",
     "hall": "9",
     "type": "lab"
-  },
-  {
-    "id": "mrwyw7mw45iwmb20s88",
-    "timestamp": 1784779073000,
-    "dateString": "23/7/2026",
-    "hh": "10",
-    "mm": "57",
-    "hall": "9",
-    "type": "pet"
   },
   {
     "id": "mrwyw7mwxrhzdclz1tg",
