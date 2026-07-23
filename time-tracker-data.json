@@ -252,15 +252,6 @@
     "type": "normal"
   },
   {
-    "id": "mrxdjjo2udf2taa088o",
-    "timestamp": 1784808326000,
-    "dateString": "23/7/2026",
-    "hh": "19",
-    "mm": "05",
-    "hall": "8",
-    "type": "normal"
-  },
-  {
     "id": "mrxdjjo2cjumbbokg75",
     "timestamp": 1784870958000,
     "dateString": "24/7/2026",
@@ -392,15 +383,6 @@
     "dateString": "24/7/2026",
     "hh": "06",
     "mm": "41",
-    "hall": "7",
-    "type": "normal"
-  },
-  {
-    "id": "mrxdjjo3gswdivwhl76",
-    "timestamp": 1784808090000,
-    "dateString": "23/7/2026",
-    "hh": "19",
-    "mm": "01",
     "hall": "7",
     "type": "normal"
   },
@@ -679,15 +661,6 @@
     "timestamp": 1784880244000,
     "dateString": "24/7/2026",
     "hh": "15",
-    "mm": "04",
-    "hall": "5",
-    "type": "lab"
-  },
-  {
-    "id": "mrxdjjo4uzc3pbt409",
-    "timestamp": 1784808243000,
-    "dateString": "23/7/2026",
-    "hh": "19",
     "mm": "04",
     "hall": "5",
     "type": "lab"
@@ -977,15 +950,6 @@
     "dateString": "24/7/2026",
     "hh": "00",
     "mm": "34",
-    "hall": "2",
-    "type": "normal"
-  },
-  {
-    "id": "mrxdjjo4k0kdr307rwd",
-    "timestamp": 1784806968000,
-    "dateString": "23/7/2026",
-    "hh": "18",
-    "mm": "42",
     "hall": "2",
     "type": "normal"
   },
