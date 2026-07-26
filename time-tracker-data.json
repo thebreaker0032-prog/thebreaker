@@ -360,123 +360,6 @@
     "type": "speed builder hall"
   },
   {
-    "id": "ms1pw7lyw11gkwuo07f",
-    "timestamp": 1786082136000,
-    "dateString": "7/8/2026",
-    "hh": "12",
-    "mm": "55",
-    "hall": "4",
-    "type": "normal"
-  },
-  {
-    "id": "ms1pw7lz2d4rqwp64ij",
-    "timestamp": 1785245753000,
-    "dateString": "28/7/2026",
-    "hh": "20",
-    "mm": "35",
-    "hall": "4",
-    "type": "normal"
-  },
-  {
-    "id": "ms1pw7lzld61e5me6df",
-    "timestamp": 1785079153000,
-    "dateString": "26/7/2026",
-    "hh": "22",
-    "mm": "19",
-    "hall": "4",
-    "type": "normal"
-  },
-  {
-    "id": "ms1pw7lz1jd5n1ioyqv",
-    "timestamp": 1785083695000,
-    "dateString": "26/7/2026",
-    "hh": "23",
-    "mm": "34",
-    "hall": "4",
-    "type": "normal"
-  },
-  {
-    "id": "ms1pw7lzhhbdv5n2g44",
-    "timestamp": 1785093067000,
-    "dateString": "27/7/2026",
-    "hh": "02",
-    "mm": "11",
-    "hall": "4",
-    "type": "normal"
-  },
-  {
-    "id": "ms1pw7lzq6yjidxbtzn",
-    "timestamp": 1785141506000,
-    "dateString": "27/7/2026",
-    "hh": "15",
-    "mm": "38",
-    "hall": "4",
-    "type": "normal"
-  },
-  {
-    "id": "ms1pw7lzy6ebqyrufd",
-    "timestamp": 1785074930000,
-    "dateString": "26/7/2026",
-    "hh": "21",
-    "mm": "08",
-    "hall": "4",
-    "type": "normal"
-  },
-  {
-    "id": "ms1pw7lzb6ssl7qv9u8",
-    "timestamp": 1785275066000,
-    "dateString": "29/7/2026",
-    "hh": "04",
-    "mm": "44",
-    "hall": "4",
-    "type": "builder hall"
-  },
-  {
-    "id": "ms1pw7lzb920v7ny688",
-    "timestamp": 1785267142000,
-    "dateString": "29/7/2026",
-    "hh": "02",
-    "mm": "32",
-    "hall": "4",
-    "type": "builder hall"
-  },
-  {
-    "id": "ms1pw7lz2sk70356amd",
-    "timestamp": 1785113558000,
-    "dateString": "27/7/2026",
-    "hh": "07",
-    "mm": "52",
-    "hall": "4",
-    "type": "lab"
-  },
-  {
-    "id": "ms1pw7lzh1vjd6586uf",
-    "timestamp": 1785296819000,
-    "dateString": "29/7/2026",
-    "hh": "10",
-    "mm": "46",
-    "hall": "4",
-    "type": "lab"
-  },
-  {
-    "id": "ms1pw7lzm2whxb7txf",
-    "timestamp": 1785166377000,
-    "dateString": "27/7/2026",
-    "hh": "22",
-    "mm": "32",
-    "hall": "4",
-    "type": "pet"
-  },
-  {
-    "id": "ms1pw7lzbq4zsmn4tst",
-    "timestamp": 1785109785000,
-    "dateString": "27/7/2026",
-    "hh": "06",
-    "mm": "49",
-    "hall": "4",
-    "type": "speed builder hall"
-  },
-  {
     "id": "ms1pw7lzez8my8o6ofo",
     "timestamp": 1785140531000,
     "dateString": "27/7/2026",
@@ -591,132 +474,6 @@
     "hh": "06",
     "mm": "52",
     "hall": "3",
-    "type": "speed builder hall"
-  },
-  {
-    "id": "ms1pw7m0s65cc5um4i",
-    "timestamp": 1785558288000,
-    "dateString": "1/8/2026",
-    "hh": "11",
-    "mm": "24",
-    "hall": "2",
-    "type": "normal"
-  },
-  {
-    "id": "ms1pw7m0h3486vqn8hm",
-    "timestamp": 1785291867000,
-    "dateString": "29/7/2026",
-    "hh": "09",
-    "mm": "24",
-    "hall": "2",
-    "type": "normal"
-  },
-  {
-    "id": "ms1pw7m0eirx4g2go2",
-    "timestamp": 1785090428000,
-    "dateString": "27/7/2026",
-    "hh": "01",
-    "mm": "27",
-    "hall": "2",
-    "type": "normal"
-  },
-  {
-    "id": "ms1pw7m0lpnzor6jxgo",
-    "timestamp": 1785156284000,
-    "dateString": "27/7/2026",
-    "hh": "19",
-    "mm": "44",
-    "hall": "2",
-    "type": "normal"
-  },
-  {
-    "id": "ms1pw7m0p1hne8z9ei",
-    "timestamp": 1785099385000,
-    "dateString": "27/7/2026",
-    "hh": "03",
-    "mm": "56",
-    "hall": "2",
-    "type": "normal"
-  },
-  {
-    "id": "ms1pw7m0mozo4j1daed",
-    "timestamp": 1785144818000,
-    "dateString": "27/7/2026",
-    "hh": "16",
-    "mm": "33",
-    "hall": "2",
-    "type": "normal"
-  },
-  {
-    "id": "ms1pw7m0mcudruwixy",
-    "timestamp": 1785077002000,
-    "dateString": "26/7/2026",
-    "hh": "21",
-    "mm": "43",
-    "hall": "2",
-    "type": "normal"
-  },
-  {
-    "id": "ms1pw7m05okc1bvx1al",
-    "timestamp": 1785194756000,
-    "dateString": "28/7/2026",
-    "hh": "06",
-    "mm": "25",
-    "hall": "2",
-    "type": "builder hall"
-  },
-  {
-    "id": "ms1pw7m0y8rpzzglp2c",
-    "timestamp": 1785202371000,
-    "dateString": "28/7/2026",
-    "hh": "08",
-    "mm": "32",
-    "hall": "2",
-    "type": "builder hall"
-  },
-  {
-    "id": "ms1pw7m0u9160k0xfln",
-    "timestamp": 1785078737000,
-    "dateString": "26/7/2026",
-    "hh": "22",
-    "mm": "12",
-    "hall": "2",
-    "type": "lab"
-  },
-  {
-    "id": "ms1pw7m0wjlsx7c1zek",
-    "timestamp": 1785303415000,
-    "dateString": "29/7/2026",
-    "hh": "12",
-    "mm": "36",
-    "hall": "2",
-    "type": "lab"
-  },
-  {
-    "id": "ms1pw7m0j2lnyvtsht",
-    "timestamp": 1785218926000,
-    "dateString": "28/7/2026",
-    "hh": "13",
-    "mm": "08",
-    "hall": "2",
-    "type": "pet"
-  },
-  {
-    "id": "ms1pw7m0gx0r8q8e7ch",
-    "timestamp": 1785107594000,
-    "dateString": "27/7/2026",
-    "hh": "06",
-    "mm": "13",
-    "hall": "2",
-    "type": "speed lab"
-  },
-  {
-    "id": "ms1pw7m0cl4kvn44zje",
-    "timestamp": 1785109958000,
-    "dateString": "27/7/2026",
-    "hh": "06",
-    "mm": "52",
-    "hall": "2",
     "type": "speed builder hall"
   },
   {
@@ -945,123 +702,6 @@
     "type": "pet"
   },
   {
-    "id": "ms1sam3yvr3ndcx7tg",
-    "timestamp": 1785139739000,
-    "dateString": "27/7/2026",
-    "hh": "15",
-    "mm": "08",
-    "hall": "10",
-    "type": "normal"
-  },
-  {
-    "id": "ms1sam4b7m2z781llpu",
-    "timestamp": 1785102658000,
-    "dateString": "27/7/2026",
-    "hh": "04",
-    "mm": "50",
-    "hall": "10",
-    "type": "normal"
-  },
-  {
-    "id": "ms1sam4bnwxvrwmtfwr",
-    "timestamp": 1785170250000,
-    "dateString": "27/7/2026",
-    "hh": "23",
-    "mm": "37",
-    "hall": "10",
-    "type": "normal"
-  },
-  {
-    "id": "ms1sam4b4g0gxeh142",
-    "timestamp": 1785101151000,
-    "dateString": "27/7/2026",
-    "hh": "04",
-    "mm": "25",
-    "hall": "10",
-    "type": "normal"
-  },
-  {
-    "id": "ms1sam4bwdcg3v4a189",
-    "timestamp": 1785149602000,
-    "dateString": "27/7/2026",
-    "hh": "17",
-    "mm": "53",
-    "hall": "10",
-    "type": "normal"
-  },
-  {
-    "id": "ms1sam4cod3il99equr",
-    "timestamp": 1785121092000,
-    "dateString": "27/7/2026",
-    "hh": "09",
-    "mm": "58",
-    "hall": "10",
-    "type": "normal"
-  },
-  {
-    "id": "ms1sam4c7xvk5lipqak",
-    "timestamp": 1785074348000,
-    "dateString": "26/7/2026",
-    "hh": "20",
-    "mm": "59",
-    "hall": "10",
-    "type": "builder hall"
-  },
-  {
-    "id": "ms1sam4ccxzkodwpuka",
-    "timestamp": 1785110524000,
-    "dateString": "27/7/2026",
-    "hh": "07",
-    "mm": "02",
-    "hall": "10",
-    "type": "builder hall"
-  },
-  {
-    "id": "ms1sam4cjlfci50vkf",
-    "timestamp": 1785270294000,
-    "dateString": "29/7/2026",
-    "hh": "03",
-    "mm": "24",
-    "hall": "10",
-    "type": "builder hall"
-  },
-  {
-    "id": "ms1sam4clslpyk6bhsk",
-    "timestamp": 1785247502000,
-    "dateString": "28/7/2026",
-    "hh": "21",
-    "mm": "05",
-    "hall": "10",
-    "type": "lab"
-  },
-  {
-    "id": "ms1sam4c4e5squjuqq2",
-    "timestamp": 1785146752000,
-    "dateString": "27/7/2026",
-    "hh": "17",
-    "mm": "05",
-    "hall": "10",
-    "type": "lab"
-  },
-  {
-    "id": "ms1sam4c4aix7fblqsq",
-    "timestamp": 1785098440000,
-    "dateString": "27/7/2026",
-    "hh": "03",
-    "mm": "40",
-    "hall": "10",
-    "type": "pet"
-  },
-  {
-    "id": "ms1sam4ch3kusjjxxib",
-    "timestamp": 1785110025000,
-    "dateString": "27/7/2026",
-    "hh": "06",
-    "mm": "53",
-    "hall": "10",
-    "type": "speed builder hall"
-  },
-  {
     "id": "ms1tytxpb3fzdioksj",
     "timestamp": 1785213230000,
     "dateString": "28/7/2026",
@@ -1176,6 +816,366 @@
     "hh": "06",
     "mm": "57",
     "hall": "7",
+    "type": "speed builder hall"
+  },
+  {
+    "id": "ms1x249l0s801jujhte",
+    "timestamp": 1785139739000,
+    "dateString": "27/7/2026",
+    "hh": "15",
+    "mm": "08",
+    "hall": "10",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x249ln8zipwwmcm",
+    "timestamp": 1785102658000,
+    "dateString": "27/7/2026",
+    "hh": "04",
+    "mm": "50",
+    "hall": "10",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x249lounkhmylvt",
+    "timestamp": 1785170255000,
+    "dateString": "27/7/2026",
+    "hh": "23",
+    "mm": "37",
+    "hall": "10",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x249lfsyrtad9sr5",
+    "timestamp": 1785101151000,
+    "dateString": "27/7/2026",
+    "hh": "04",
+    "mm": "25",
+    "hall": "10",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x249l0e3k6sd0k62s",
+    "timestamp": 1785149602000,
+    "dateString": "27/7/2026",
+    "hh": "17",
+    "mm": "53",
+    "hall": "10",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x249lw14oy7ozf1",
+    "timestamp": 1785121097000,
+    "dateString": "27/7/2026",
+    "hh": "09",
+    "mm": "58",
+    "hall": "10",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x249lrh495fc6san",
+    "timestamp": 1785110524000,
+    "dateString": "27/7/2026",
+    "hh": "07",
+    "mm": "02",
+    "hall": "10",
+    "type": "builder hall"
+  },
+  {
+    "id": "ms1x249lxr1tqbz7go",
+    "timestamp": 1785430777000,
+    "dateString": "30/7/2026",
+    "hh": "23",
+    "mm": "59",
+    "hall": "10",
+    "type": "builder hall"
+  },
+  {
+    "id": "ms1x249lnmq5clb3xrh",
+    "timestamp": 1785270294000,
+    "dateString": "29/7/2026",
+    "hh": "03",
+    "mm": "24",
+    "hall": "10",
+    "type": "builder hall"
+  },
+  {
+    "id": "ms1x249ldb5k1vdo7lf",
+    "timestamp": 1785247502000,
+    "dateString": "28/7/2026",
+    "hh": "21",
+    "mm": "05",
+    "hall": "10",
+    "type": "lab"
+  },
+  {
+    "id": "ms1x249lva8jketbja",
+    "timestamp": 1785146752000,
+    "dateString": "27/7/2026",
+    "hh": "17",
+    "mm": "05",
+    "hall": "10",
+    "type": "lab"
+  },
+  {
+    "id": "ms1x249my4jocrggsfb",
+    "timestamp": 1785098440000,
+    "dateString": "27/7/2026",
+    "hh": "03",
+    "mm": "40",
+    "hall": "10",
+    "type": "pet"
+  },
+  {
+    "id": "ms1x249mllu6t1nmgb",
+    "timestamp": 1785110288000,
+    "dateString": "27/7/2026",
+    "hh": "06",
+    "mm": "58",
+    "hall": "10",
+    "type": "speed builder hall"
+  },
+  {
+    "id": "ms1x2sz6y69xxa2y48r",
+    "timestamp": 1786082136000,
+    "dateString": "7/8/2026",
+    "hh": "12",
+    "mm": "55",
+    "hall": "4",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x2sz6dj265roznie",
+    "timestamp": 1785245753000,
+    "dateString": "28/7/2026",
+    "hh": "20",
+    "mm": "35",
+    "hall": "4",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x2sz6pad7me5xy3",
+    "timestamp": 1785079153000,
+    "dateString": "26/7/2026",
+    "hh": "22",
+    "mm": "19",
+    "hall": "4",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x2sz69ywvuykoedb",
+    "timestamp": 1785083695000,
+    "dateString": "26/7/2026",
+    "hh": "23",
+    "mm": "34",
+    "hall": "4",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x2sz64yjtdq6yaan",
+    "timestamp": 1785093067000,
+    "dateString": "27/7/2026",
+    "hh": "02",
+    "mm": "11",
+    "hall": "4",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x2sz6zo37kq77en",
+    "timestamp": 1785141506000,
+    "dateString": "27/7/2026",
+    "hh": "15",
+    "mm": "38",
+    "hall": "4",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x2sz6tawvwru7lvs",
+    "timestamp": 1785126602000,
+    "dateString": "27/7/2026",
+    "hh": "11",
+    "mm": "30",
+    "hall": "4",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x2sz60rlg5ydei5wn",
+    "timestamp": 1785275066000,
+    "dateString": "29/7/2026",
+    "hh": "04",
+    "mm": "44",
+    "hall": "4",
+    "type": "builder hall"
+  },
+  {
+    "id": "ms1x2sz6rv3iltrgdx",
+    "timestamp": 1785267142000,
+    "dateString": "29/7/2026",
+    "hh": "02",
+    "mm": "32",
+    "hall": "4",
+    "type": "builder hall"
+  },
+  {
+    "id": "ms1x2sz6n6c4cpwmynm",
+    "timestamp": 1785113558000,
+    "dateString": "27/7/2026",
+    "hh": "07",
+    "mm": "52",
+    "hall": "4",
+    "type": "lab"
+  },
+  {
+    "id": "ms1x2sz6mb5nibytj6",
+    "timestamp": 1785296819000,
+    "dateString": "29/7/2026",
+    "hh": "10",
+    "mm": "46",
+    "hall": "4",
+    "type": "lab"
+  },
+  {
+    "id": "ms1x2sz6ucoh3zvfg8j",
+    "timestamp": 1785166377000,
+    "dateString": "27/7/2026",
+    "hh": "22",
+    "mm": "32",
+    "hall": "4",
+    "type": "pet"
+  },
+  {
+    "id": "ms1x2sz6sfwszunhdy",
+    "timestamp": 1785109899000,
+    "dateString": "27/7/2026",
+    "hh": "06",
+    "mm": "51",
+    "hall": "4",
+    "type": "speed builder hall"
+  },
+  {
+    "id": "ms1x3cbnebohj8iiwav",
+    "timestamp": 1785558264000,
+    "dateString": "1/8/2026",
+    "hh": "11",
+    "mm": "24",
+    "hall": "2",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x3cbn8ypm0orkgom",
+    "timestamp": 1785291843000,
+    "dateString": "29/7/2026",
+    "hh": "09",
+    "mm": "24",
+    "hall": "2",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x3cbnln9ksjf6p5s",
+    "timestamp": 1785090404000,
+    "dateString": "27/7/2026",
+    "hh": "01",
+    "mm": "26",
+    "hall": "2",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x3cbnut0krdspe3s",
+    "timestamp": 1785156266000,
+    "dateString": "27/7/2026",
+    "hh": "19",
+    "mm": "44",
+    "hall": "2",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x3cbndw3bvrys3mq",
+    "timestamp": 1785099361000,
+    "dateString": "27/7/2026",
+    "hh": "03",
+    "mm": "56",
+    "hall": "2",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x3cbnt2f961arpin",
+    "timestamp": 1785144794000,
+    "dateString": "27/7/2026",
+    "hh": "16",
+    "mm": "33",
+    "hall": "2",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x3cbnvc26khj5s5g",
+    "timestamp": 1785128636000,
+    "dateString": "27/7/2026",
+    "hh": "12",
+    "mm": "03",
+    "hall": "2",
+    "type": "normal"
+  },
+  {
+    "id": "ms1x3cbnwhgwytaht9",
+    "timestamp": 1785194756000,
+    "dateString": "28/7/2026",
+    "hh": "06",
+    "mm": "25",
+    "hall": "2",
+    "type": "builder hall"
+  },
+  {
+    "id": "ms1x3cbnpgvlkq70ym",
+    "timestamp": 1785202371000,
+    "dateString": "28/7/2026",
+    "hh": "08",
+    "mm": "32",
+    "hall": "2",
+    "type": "builder hall"
+  },
+  {
+    "id": "ms1x3cbn5j6rtjkzgqd",
+    "timestamp": 1785078737000,
+    "dateString": "26/7/2026",
+    "hh": "22",
+    "mm": "12",
+    "hall": "2",
+    "type": "lab"
+  },
+  {
+    "id": "ms1x3cbn6z5xa2wrdpx",
+    "timestamp": 1785303415000,
+    "dateString": "29/7/2026",
+    "hh": "12",
+    "mm": "36",
+    "hall": "2",
+    "type": "lab"
+  },
+  {
+    "id": "ms1x3cbn81xkajgizh",
+    "timestamp": 1785218926000,
+    "dateString": "28/7/2026",
+    "hh": "13",
+    "mm": "08",
+    "hall": "2",
+    "type": "pet"
+  },
+  {
+    "id": "ms1x3cbnrg82zc1qzoj",
+    "timestamp": 1785107928000,
+    "dateString": "27/7/2026",
+    "hh": "06",
+    "mm": "18",
+    "hall": "2",
+    "type": "speed lab"
+  },
+  {
+    "id": "ms1x3cbnzolys5eut2p",
+    "timestamp": 1785110292000,
+    "dateString": "27/7/2026",
+    "hh": "06",
+    "mm": "58",
+    "hall": "2",
     "type": "speed builder hall"
   }
 ]
