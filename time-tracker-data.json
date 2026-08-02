@@ -1,29 +1,20 @@
 [
   {
-    "id": "msbm7r3arbcofkqf1q",
-    "timestamp": 1785664573000,
+    "id": "msbn5azmntyxjdczzgr",
+    "timestamp": 1785666010000,
     "dateString": "2/8/2026",
-    "hh": "16",
-    "mm": "56",
-    "hall": "1",
+    "hh": "17",
+    "mm": "20",
+    "hall": 1,
     "type": "normal"
   },
   {
-    "id": "msbm7r3bmrw3cyq7p",
-    "timestamp": 1785665724000,
+    "id": "msbn5azme5eeouvj05f",
+    "timestamp": 1785665727000,
     "dateString": "2/8/2026",
     "hh": "17",
     "mm": "15",
-    "hall": "1",
+    "hall": 1,
     "type": "normal"
-  },
-  {
-    "id": "msbm7r3bhw0bdzle3uc",
-    "timestamp": 1785663938000,
-    "dateString": "2/8/2026",
-    "hh": "16",
-    "mm": "45",
-    "hall": "1",
-    "type": "speed lab"
   }
 ]
